@@ -4,27 +4,24 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-gatsby-cloud",
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
     "gatsby-plugin-react-helmet",
+    // {
+    //   resolve: 'gatsby-plugin-load-script',
+    //   options: {
+    //     src: [
+    //       '/bootstrap.all.min.js',
+    //       '/front.js',
+    //       '/jquery-migrate.min.js',
+    //       '/jquery.min.js',
+    //       '/script.js'
+    //     ]
+    //   }
+    // },
     {
       resolve: "gatsby-plugin-manifest",
       options: {
         icon: "src/images/icon.png",
       },
-    },
-    "gatsby-transformer-remark",
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "pages",
-        path: "./src/pages/",
-      },
-      __key: "pages",
-    },
+    }
   ],
 };
