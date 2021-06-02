@@ -24,6 +24,7 @@ export default function Layout({ headerclassName = "", children }) {
         <script src={withPrefix("jquery-migrate.min.js")} type="text/javascript" />
         <script src={withPrefix("jquery.min.js")} type="text/javascript" />
         <script src={withPrefix("script.js")} type="text/javascript" />
+        <script src="https://kit.fontawesome.com/3eb82edf25.js" crossorigin="anonymous" />
       </Helmet>
       <Header headerclassName={headerclassName} />
       {children}
