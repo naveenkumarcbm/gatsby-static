@@ -16,7 +16,7 @@ const IndexPage = () => {
             <div className="row">
               <div className="col-lg-6 content-inverse">
                 <p className="h5">
-                  We Are <span style={{color: '#ff9029'}}>CoEnterprise</span>
+                  We Are <span style={{color: '#ff9029'}}>Sass Innovations</span>
                 </p>
                 <h1>
                   <strong>Empowering faster, smarter decision-making</strong>
@@ -29,13 +29,13 @@ const IndexPage = () => {
                   <img
                     width="450"
                     height="305"
-                    src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Tableau_PartnerAward_2020MarketingInnovation.png"
+                    src="./Tableau_PartnerAward_2020MarketingInnovation.png"
                     className="homepage-offer-graphic"
                     alt=""
                     loading="lazy"
                     srcSet="
-                      https://www.coenterprise.com/uploads/2021/03/Tableau_PartnerAward_2020MarketingInnovation.png         450w,
-                      https://www.coenterprise.com/uploads/2021/03/Tableau_PartnerAward_2020MarketingInnovation-300x203.png 300w
+                      ./Tableau_PartnerAward_2020MarketingInnovation.png         450w,
+                      ./Tableau_PartnerAward_2020MarketingInnovation-300x203.png 300w
                     "
                     sizes="(max-width: 450px) 100vw, 450px"
                   />
@@ -58,18 +58,18 @@ const IndexPage = () => {
 
           <div className="row justify-content-center">
             <div className="col-md-6 content-section-tight">
-              <a href="https://www.coenterprise.com/who-we-help/supply-chain/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover green">
+              <a href="/who-we-help/supply-chain/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover green">
                 <div className="row">
                   <div className="col-lg-auto">
                     <p>
                       <img
                         width="300"
                         height="300"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_SupplyChain-300x300.png"
+                        src="./Home_SupplyChain-300x300.png"
                         className="image-center"
                         alt="Who We Help Supply Chain"
                         loading="lazy"
-                        srcSet="https://www.coenterprise.com/uploads/2020/04/Home_SupplyChain-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_SupplyChain.png 800w"
+                        srcSet="./Home_SupplyChain-300x300.png 300w, ./Home_SupplyChain.png 800w"
                         sizes="(max-width: 300px) 100vw, 300px"
                       />
                     </p>
@@ -87,18 +87,18 @@ const IndexPage = () => {
             </div>
 
             <div className="col-md-6 content-section-tight">
-              <a href="https://www.coenterprise.com/who-we-help/it-edi/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover purple">
+              <a href="/who-we-help/it-edi/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover purple">
                 <div className="row">
                   <div className="col-lg-auto">
                     <p>
                       <img
                         width="300"
                         height="300"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/WhoWeHelp_Software_EDI-300x300.png"
+                        src="./WhoWeHelp_Software_EDI-300x300.png"
                         className="image-center"
                         alt="Who We Help IT and EDI"
                         loading="lazy"
-                        srcSet="https://www.coenterprise.com/uploads/2020/04/WhoWeHelp_Software_EDI-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/WhoWeHelp_Software_EDI.png 800w"
+                        srcSet="./WhoWeHelp_Software_EDI-300x300.png 300w, ./WhoWeHelp_Software_EDI.png 800w"
                         sizes="(max-width: 300px) 100vw, 300px"
                       />
                     </p>
@@ -120,18 +120,18 @@ const IndexPage = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-md-6 content-section-tight">
-              <a href="https://www.coenterprise.com/who-we-help/sales-marketing/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover orange">
+              <a href="/who-we-help/sales-marketing/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover orange">
                 <div className="row">
                   <div className="col-lg-auto">
                     <p>
                       <img
                         width="300"
                         height="300"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_SalesandMarketing-300x300.png"
+                        src="./Home_SalesandMarketing-300x300.png"
                         className="image-center"
                         alt="sales and marketing"
                         loading="lazy"
-                        srcSet="https://www.coenterprise.com/uploads/2020/04/Home_SalesandMarketing-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_SalesandMarketing.png 800w"
+                        srcSet="./Home_SalesandMarketing-300x300.png 300w, ./Home_SalesandMarketing.png 800w"
                         sizes="(max-width: 300px) 100vw, 300px"
                       />
                     </p>
@@ -149,18 +149,18 @@ const IndexPage = () => {
             </div>
 
             <div className="col-md-6 content-section-tight">
-              <a href="https://www.coenterprise.com/who-we-help/data-analytics/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover blue">
+              <a href="/who-we-help/data-analytics/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover blue">
                 <div className="row">
                   <div className="col-lg-auto">
                     <p>
                       <img
                         width="300"
                         height="300"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_DataAndBusinessIntel-300x300.png"
+                        src="./Home_DataAndBusinessIntel-300x300.png"
                         className="image-center"
                         alt="data analytics"
                         loading="lazy"
-                        srcSet="https://www.coenterprise.com/uploads/2020/04/Home_DataAndBusinessIntel-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_DataAndBusinessIntel.png 800w"
+                        srcSet="./Home_DataAndBusinessIntel-300x300.png 300w, ./Home_DataAndBusinessIntel.png 800w"
                         sizes="(max-width: 300px) 100vw, 300px"
                       />
                     </p>
@@ -182,20 +182,20 @@ const IndexPage = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-md-6 content-section-tight">
-              <a href="https://www.coenterprise.com/who-we-help/systems-integration/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover blue-purple">
+              <a href="/who-we-help/systems-integration/" className="feature-bucket box-shadow-1 box-shadow-padding-2 height-100 bg-cover blue-purple">
                 <div className="row">
                   <div className="col-lg-auto">
                     <p>
                       <img
                         width="300"
                         height="300"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/WhoWeHelp_Services_SysIntegrations-300x300.png"
+                        src="./WhoWeHelp_Services_SysIntegrations-300x300.png"
                         className="image-center"
                         alt="system integrations"
                         loading="lazy"
                         srcSet="
-                          https://www.coenterprise.com/uploads/2020/04/WhoWeHelp_Services_SysIntegrations-300x300.png 300w,
-                          https://www.coenterprise.com/uploads/2020/04/WhoWeHelp_Services_SysIntegrations.png         800w
+                          ./WhoWeHelp_Services_SysIntegrations-300x300.png 300w,
+                          ./WhoWeHelp_Services_SysIntegrations.png         800w
                         "
                         sizes="(max-width: 300px) 100vw, 300px"
                       />
@@ -224,7 +224,7 @@ const IndexPage = () => {
               <h3 className="h2 heading-underline underline-blue">Unlock your data’s full potential.</h3>
               <p>No two customers are alike. That’s why we ensure that every customer has access to the right information and solutions.</p>
               <p>
-                <a className="btn btn-aqua" href="https://www.coenterprise.com/solutions/">
+                <a className="btn btn-aqua" href="/solutions/">
                   All Solutions
                 </a>
               </p>
@@ -233,17 +233,17 @@ const IndexPage = () => {
               <div className="row">
                 <div className="col-md-6 solution-bucket-column-stagger">
                   <div className="content-section-tight">
-                    <a href="https://www.coenterprise.com/solutions/syncrofy/" className="solution-bucket-wrapper">
+                    <a href="/solutions/syncrofy/" className="solution-bucket-wrapper">
                       <div className="solution-bucket box-shadow-1 box-shadow-padding-2">
                         <p>
                           <img
                             width="300"
                             height="300"
-                            src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_Syncrofy-300x300.png"
+                            src="./Home_Syncrofy-300x300.png"
                             className=""
                             alt="syncrofy"
                             loading="lazy"
-                            srcSet="https://www.coenterprise.com/uploads/2020/04/Home_Syncrofy-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_Syncrofy.png 800w"
+                            srcSet="./Home_Syncrofy-300x300.png 300w, ./Home_Syncrofy.png 800w"
                             sizes="(max-width: 300px) 100vw, 300px"
                           />
                         </p>
@@ -254,17 +254,17 @@ const IndexPage = () => {
                     </a>
                   </div>
                   <div className="content-section-tight">
-                    <a href="https://www.coenterprise.com/solutions/integration/" className="solution-bucket-wrapper">
+                    <a href="/solutions/integration/" className="solution-bucket-wrapper">
                       <div className="solution-bucket box-shadow-1 box-shadow-padding-2">
                         <p>
                           <img
                             width="300"
                             height="300"
-                            src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_Integration-300x300.png"
+                            src="./Home_Integration-300x300.png"
                             className=""
                             alt="integration"
                             loading="lazy"
-                            srcSet="https://www.coenterprise.com/uploads/2020/04/Home_Integration-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_Integration.png 800w"
+                            srcSet="./Home_Integration-300x300.png 300w, ./Home_Integration.png 800w"
                             sizes="(max-width: 300px) 100vw, 300px"
                           />
                         </p>
@@ -278,17 +278,17 @@ const IndexPage = () => {
 
                 <div className="col-md-6">
                   <div className="content-section-tight">
-                    <a href="https://www.coenterprise.com/solutions/data-analytics/" className="solution-bucket-wrapper">
+                    <a href="/solutions/data-analytics/" className="solution-bucket-wrapper">
                       <div className="solution-bucket box-shadow-1 box-shadow-padding-2">
                         <p>
                           <img
                             width="300"
                             height="300"
-                            src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_DataAnalytics-300x300.png"
+                            src="./Home_DataAnalytics-300x300.png"
                             className=""
                             alt="data analytics"
                             loading="lazy"
-                            srcSet="https://www.coenterprise.com/uploads/2020/04/Home_DataAnalytics-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_DataAnalytics.png 800w"
+                            srcSet="./Home_DataAnalytics-300x300.png 300w, ./Home_DataAnalytics.png 800w"
                             sizes="(max-width: 300px) 100vw, 300px"
                           />
                         </p>
@@ -299,17 +299,17 @@ const IndexPage = () => {
                     </a>
                   </div>
                   <div className="content-section-tight">
-                    <a href="https://www.coenterprise.com/solutions/hybrid-integration-platform/" className="solution-bucket-wrapper">
+                    <a href="/solutions/hybrid-integration-platform/" className="solution-bucket-wrapper">
                       <div className="solution-bucket box-shadow-1 box-shadow-padding-2">
                         <p>
                           <img
                             width="300"
                             height="300"
-                            src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Home_HIP-300x300.png"
+                            src="./Home_HIP-300x300.png"
                             className=""
                             alt="Hybrid Integration Platform"
                             loading="lazy"
-                            srcSet="https://www.coenterprise.com/uploads/2020/04/Home_HIP-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_HIP.png 800w"
+                            srcSet="./Home_HIP-300x300.png 300w, ./Home_HIP.png 800w"
                             sizes="(max-width: 300px) 100vw, 300px"
                           />
                         </p>
@@ -335,7 +335,7 @@ const IndexPage = () => {
                   <h2 className="paragraph">CASE STUDIES</h2>
                   <h2 className="heading-underline underline-orange">See what our clients have to say about us.</h2>
                   <p>
-                    <a className="btn btn-orange-outline" href="https://www.coenterprise.com/case-studies">
+                    <a className="btn btn-orange-outline" href="/case-studies">
                       View All Case Studies
                     </a>
                   </p>
@@ -347,16 +347,16 @@ const IndexPage = () => {
                       <img
                         width="2000"
                         height="463"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/BN_Logo_FeaturedImage.png"
+                        src="./BN_Logo_FeaturedImage.png"
                         className="image-center"
                         alt=""
                         loading="lazy"
                         srcSet="
-                          https://www.coenterprise.com/uploads/2020/04/BN_Logo_FeaturedImage.png          2000w,
-                          https://www.coenterprise.com/uploads/2020/04/BN_Logo_FeaturedImage-800x185.png   800w,
-                          https://www.coenterprise.com/uploads/2020/04/BN_Logo_FeaturedImage-300x69.png    300w,
-                          https://www.coenterprise.com/uploads/2020/04/BN_Logo_FeaturedImage-1536x356.png 1536w,
-                          https://www.coenterprise.com/uploads/2020/04/BN_Logo_FeaturedImage-2048x474.png 2048w
+                          ./BN_Logo_FeaturedImage.png          2000w,
+                          ./BN_Logo_FeaturedImage-800x185.png   800w,
+                          ./BN_Logo_FeaturedImage-300x69.png    300w,
+                          ./BN_Logo_FeaturedImage-1536x356.png 1536w,
+                          ./BN_Logo_FeaturedImage-2048x474.png 2048w
                         "
                         sizes="(max-width: 2000px) 100vw, 2000px"
                       />
@@ -366,13 +366,13 @@ const IndexPage = () => {
                       <img
                         width="800"
                         height="200"
-                        src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/hachette-book-group-case-study.jpg"
+                        src="./hachette-book-group-case-study.jpg"
                         className="image-center"
                         alt="Hachette Book Group"
                         loading="lazy"
                         srcSet="
-                          https://www.coenterprise.com/uploads/2020/04/hachette-book-group-case-study.jpg        800w,
-                          https://www.coenterprise.com/uploads/2020/04/hachette-book-group-case-study-300x75.jpg 300w
+                          ./hachette-book-group-case-study.jpg        800w,
+                          ./hachette-book-group-case-study-300x75.jpg 300w
                         "
                         sizes="(max-width: 800px) 100vw, 800px"
                       />
@@ -402,7 +402,7 @@ const IndexPage = () => {
                               <div className="col-md-4 order-md-first">
                                 <p className="scrunch">
                                   <a
-                                    href="https://www.coenterprise.com/case-studies/case-study-leading-college-bookseller-gains-edi-visibility-and-further-enhances-vendor-relations-with-syncrofy/"
+                                    href="/case-studies/case-study-leading-college-bookseller-gains-edi-visibility-and-further-enhances-vendor-relations-with-syncrofy/"
                                     className="btn btn-orange"
                                   >
                                     Read Full Case Study
@@ -433,7 +433,7 @@ const IndexPage = () => {
                               </div>
                               <div className="col-md-4 order-md-first">
                                 <p className="scrunch">
-                                  <a href="https://www.coenterprise.com/case-studies/case-study-hachette-book-group/" className="btn btn-orange">
+                                  <a href="/case-studies/case-study-hachette-book-group/" className="btn btn-orange">
                                     Read Full Case Study
                                   </a>
                                 </p>
@@ -471,7 +471,7 @@ const IndexPage = () => {
                     <img
                       width="175"
                       height="75"
-                      src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/ibm-partner-log.png"
+                      src="./ibm-partner-log.png"
                       className="image-center partner-logo"
                       alt="IBM"
                       loading="lazy"
@@ -484,7 +484,7 @@ const IndexPage = () => {
                     <img
                       width="200"
                       height="56"
-                      src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/tableau-partner-logo.jpg"
+                      src="./tableau-partner-logo.jpg"
                       className="image-center partner-logo"
                       alt="Tableau"
                       loading="lazy"
@@ -497,7 +497,7 @@ const IndexPage = () => {
                     <img
                       width="121"
                       height="85"
-                      src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/salesforce-partner-logo.png"
+                      src="./salesforce-partner-logo.png"
                       className="image-center partner-logo"
                       alt="Salesforce"
                       loading="lazy"
@@ -510,15 +510,15 @@ const IndexPage = () => {
                     <img
                       width="800"
                       height="191"
-                      src="./B2B Consulting Partner _ IBM Sterling Partner _ Tableau Gold Partner _ CoEnterprise_files/Snowflake-logo-800x191.png"
+                      src="./Snowflake-logo-800x191.png"
                       className="image-center partner-logo"
                       alt=""
                       loading="lazy"
                       srcSet="
-                        https://www.coenterprise.com/uploads/2020/10/Snowflake-logo-800x191.png         800w,
-                        https://www.coenterprise.com/uploads/2020/10/Snowflake-logo-300x72.png          300w,
-                        https://www.coenterprise.com/uploads/2020/10/Snowflake-logo-1536x366.png       1536w,
-                        https://www.coenterprise.com/uploads/2020/10/Snowflake-logo-e1612643218150.png  121w
+                        ./Snowflake-logo-800x191.png         800w,
+                        ./Snowflake-logo-300x72.png          300w,
+                        ./Snowflake-logo-1536x366.png       1536w,
+                        ./Snowflake-logo-e1612643218150.png  121w
                       "
                       sizes="(max-width: 800px) 100vw, 800px"
                     />
@@ -530,7 +530,7 @@ const IndexPage = () => {
           <div className="row">
             <div className="col-md">
               <p style={{textAlign: "center"}}>
-                <a className="btn btn-purple" href="https://www.coenterprise.com/about/partners/">
+                <a className="btn btn-purple" href="/about/partners/">
                   Go to Our Partners Page
                 </a>
               </p>
@@ -561,7 +561,7 @@ const IndexPage = () => {
                   <div className="resource-bucket-wrapper h-100 content-tight">
                     <div
                       className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                      style={{backgroundImage: `url(https://www.coenterprise.com/uploads/2020/04/Revolutionize-EDI-Webinar-300x165.jpg)`}}
+                      style={{backgroundImage: `url(./Revolutionize-EDI-Webinar-300x165.jpg)`}}
                     >
                       <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 webinar">
                         <div className="resource-bucket-top">
@@ -588,13 +588,13 @@ const IndexPage = () => {
                   <div className="resource-bucket-wrapper h-100 content-tight">
                     <div
                       className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                      style={{backgroundImage: `url(https://www.coenterprise.com/uploads/2018/05/Syncrofy-doc-search-300x162.png)`}}
+                      style={{backgroundImage: `url(./Syncrofy-doc-search-300x162.png)`}}
                     >
                       <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 blog">
                         <div className="resource-bucket-top">
                           <p className="post-type scrunch-top">Blog</p>
                           <h4 className="font-weight-bold">
-                            <a href="https://www.coenterprise.com/blog/3-quick-and-easy-ways-to-find-a-document-in-syncrofy/">3 Quick and Easy Ways to Find a Document in Syncrofy</a>
+                            <a href="/blog/3-quick-and-easy-ways-to-find-a-document-in-syncrofy/">3 Quick and Easy Ways to Find a Document in Syncrofy</a>
                           </h4>
                           <p>
                             <small>By: Pasquale Gatti</small>
@@ -602,7 +602,7 @@ const IndexPage = () => {
                         </div>
                         <div className="resource-bucket-bottom">
                           <p className="scrunch-bottom">
-                            <a href="https://www.coenterprise.com/blog/3-quick-and-easy-ways-to-find-a-document-in-syncrofy/" className="arrow-link">
+                            <a href="/blog/3-quick-and-easy-ways-to-find-a-document-in-syncrofy/" className="arrow-link">
                               Read Now
                             </a>
                           </p>
@@ -616,7 +616,7 @@ const IndexPage = () => {
                   <div className="resource-bucket-wrapper h-100 content-tight">
                     <div
                       className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                      style={{backgroundImage: `url(https://www.coenterprise.com/uploads/2020/04/Syncrofy-PR-300x166.jpg)`}}
+                      style={{backgroundImage: `url(./Syncrofy-PR-300x166.jpg)`}}
                     >
                       <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 in the press">
                         <div className="resource-bucket-top">
@@ -657,7 +657,7 @@ const IndexPage = () => {
                 Drop us a line.
               </h2>
               <p style={{textAlign: "center"}}>
-                <a className="btn btn-aqua" href="https://www.coenterprise.com/contact/">
+                <a className="btn btn-aqua" href="/contact/">
                   Reach Out Today
                 </a>
               </p>

@@ -32,11 +32,11 @@ const Contact = () => {
                         <img
                           loading="lazy"
                           className="aligncenter wp-image-692"
-                          src="./Contact Us _ CoEnterprise_files/Contact_Support-300x300.png"
+                          src="./Contact_Support-300x300.png"
                           alt="CoEnterprise Support"
                           width="150"
                           height="150"
-                          srcSet="https://www.coenterprise.com/uploads/2020/04/Contact_Support-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Contact_Support.png 800w"
+                          srcSet="./Contact_Support-300x300.png 300w, ./Contact_Support.png 800w"
                           sizes="(max-width: 150px) 100vw, 150px"
                         />
                       </p>

@@ -62,7 +62,7 @@ const About = () => {
                     alt=""
                     width="801"
                     height="517"
-                    srcSet="https://www.coenterprise.com/uploads/2020/11/Career_02-1.png 801w, https://www.coenterprise.com/uploads/2020/11/Career_02-1-300x194.png 300w"
+                    srcSet="./Career_02-1.png 801w, ./Career_02-1-300x194.png 300w"
                     sizes="(max-width: 801px) 100vw, 801px"
                   />
                 </p>
@@ -76,7 +76,7 @@ const About = () => {
                   experience in this space is unmatched and we have a successful track record of proven results in delivering cost-effective, compelling, world-class solutions on-time and on-budget.
                 </p>
                 <p>
-                  Come and join our expanding team – check out our <a href="https://www.coenterprise.com/about/careers/">open positions</a>.
+                  Come and join our expanding team – check out our <a href="/about/careers/">open positions</a>.
                 </p>
               </div>
             </div>
@@ -101,7 +101,7 @@ const About = () => {
                 <h2>We Live and Breathe Collaboration, Ownership, and Excellence</h2>
                 <p>
                   We approach each relationship and engagement from the perspective of three core values: collaboration, ownership, and excellence. We value collaboration with both our
-                  <a href="https://www.coenterprise.com/about/partners/">partners</a> and clients in order to present the best possible outcome for our customers. Our vow to accept ownership ensures
+                  <a href="/about/partners/">partners</a> and clients in order to present the best possible outcome for our customers. Our vow to accept ownership ensures
                   that our entire staff takes pride in our work and it is our commitment to excellence that ensures that this work is at the highest standard possible.
                 </p>
               </div>
@@ -119,7 +119,7 @@ const About = () => {
                     alt="Who We Help"
                     width="800"
                     height="500"
-                    srcSet="https://www.coenterprise.com/uploads/2020/04/About_3_WhoWeHelp.png 800w, https://www.coenterprise.com/uploads/2020/04/About_3_WhoWeHelp-300x188.png 300w"
+                    srcSet="./About_3_WhoWeHelp.png 800w, ./About_3_WhoWeHelp-300x188.png 300w"
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
                 </p>
@@ -129,21 +129,21 @@ const About = () => {
                 <h2>Who We Help</h2>
                 <ul>
                   <li>
-                    <a href="https://www.coenterprise.com/who-we-help/supply-chain/">Supply Chain</a> Professionals
+                    <a href="/who-we-help/supply-chain/">Supply Chain</a> Professionals
                   </li>
                   <li>
-                    <a href="https://www.coenterprise.com/who-we-help/it-edi/">IT</a> &amp;&nbsp;<a href="https://www.coenterprise.com/who-we-help/it-edi/">EDI</a> Professionals
+                    <a href="/who-we-help/it-edi/">IT</a> &amp;&nbsp;<a href="/who-we-help/it-edi/">EDI</a> Professionals
                   </li>
                   <li>
-                    <a href="https://www.coenterprise.com/who-we-help/sales-marketing/">Sales</a> &amp;
-                    <a href="https://www.coenterprise.com/who-we-help/sales-marketing/">Marketing</a>&nbsp;Professionals
+                    <a href="/who-we-help/sales-marketing/">Sales</a> &amp;
+                    <a href="/who-we-help/sales-marketing/">Marketing</a>&nbsp;Professionals
                   </li>
                   <li>
-                    <a href="https://www.coenterprise.com/who-we-help/data-analytics/">Data Analytics</a> &amp;
-                    <a href="https://www.coenterprise.com/who-we-help/data-analytics/">Business Intelligence</a> Professionals
+                    <a href="/who-we-help/data-analytics/">Data Analytics</a> &amp;
+                    <a href="/who-we-help/data-analytics/">Business Intelligence</a> Professionals
                   </li>
                   <li>
-                    <a href="https://www.coenterprise.com/who-we-help/systems-integration/">System Integration</a> Professionals
+                    <a href="/who-we-help/systems-integration/">System Integration</a> Professionals
                   </li>
                 </ul>
               </div>
@@ -174,7 +174,7 @@ const About = () => {
                       alt="IBM Platinum Business Partner"
                       width="300"
                       height="141"
-                      srcSet="https://www.coenterprise.com/uploads/2020/04/IBM-300x141.png 300w, https://www.coenterprise.com/uploads/2020/04/IBM.png 800w"
+                      srcSet="./IBM-300x141.png 300w, ./IBM.png 800w"
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
                   </p>
@@ -198,8 +198,8 @@ const About = () => {
                       width="300"
                       height="169"
                       srcSet="
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_TableauRookie-300x169.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_TableauRookie.png         800w
+                      ./About_Accomplishments_TableauRookie-300x169.png 300w,
+                      ./About_Accomplishments_TableauRookie.png         800w
                     "
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
@@ -225,8 +225,8 @@ const About = () => {
                       width="300"
                       height="169"
                       srcSet="
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_TableauServicesPOTY-300x169.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_TableauServicesPOTY.png         800w
+                      ./About_Accomplishments_TableauServicesPOTY-300x169.png 300w,
+                      ./About_Accomplishments_TableauServicesPOTY.png         800w
                     "
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
@@ -250,7 +250,7 @@ const About = () => {
                       alt="We are Tableau experts"
                       width="300"
                       height="188"
-                      srcSet="https://www.coenterprise.com/uploads/2020/04/Tableau_4_WeAreTheExperts-300x188.png 300w, https://www.coenterprise.com/uploads/2020/04/Tableau_4_WeAreTheExperts.png 800w"
+                      srcSet="./Tableau_4_WeAreTheExperts-300x188.png 300w, ./Tableau_4_WeAreTheExperts.png 800w"
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
                   </p>
@@ -274,7 +274,7 @@ const About = () => {
                       alt=""
                       width="300"
                       height="136"
-                      srcSet="https://www.coenterprise.com/uploads/2021/03/Partner-Awards-20202-300x136.png 300w, https://www.coenterprise.com/uploads/2021/03/Partner-Awards-20202.png 552w"
+                      srcSet="./Partner-Awards-20202-300x136.png 300w, ./Partner-Awards-20202.png 552w"
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
                   </p>
@@ -298,8 +298,8 @@ const About = () => {
                       width="300"
                       height="169"
                       srcSet="
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_BestPlaceToWork-300x169.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/About_Accomplishments_BestPlaceToWork.png         800w
+                      ./About_Accomplishments_BestPlaceToWork-300x169.png 300w,
+                      ./About_Accomplishments_BestPlaceToWork.png         800w
                     "
                       sizes="(max-width: 300px) 100vw, 300px"
                     />
@@ -403,8 +403,8 @@ const About = () => {
                     alt="Michael Rabinowitz"
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_MichaelRabinowitz.png         800w,
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_MichaelRabinowitz-300x300.png 300w
+                    ./About_Leadership_MichaelRabinowitz.png         800w,
+                    ./About_Leadership_MichaelRabinowitz-300x300.png 300w
                   "
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
@@ -426,8 +426,8 @@ const About = () => {
                     alt="Simon Baitler"
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_SimonBaitler.png         800w,
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_SimonBaitler-300x300.png 300w
+                    ./About_Leadership_SimonBaitler.png         800w,
+                    ./About_Leadership_SimonBaitler-300x300.png 300w
                   "
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
@@ -448,7 +448,7 @@ const About = () => {
                     className="image-center"
                     alt="mark bell"
                     loading="lazy"
-                    srcSet="https://www.coenterprise.com/uploads/2020/04/About_Leadership_MarkBell.png 800w, https://www.coenterprise.com/uploads/2020/04/About_Leadership_MarkBell-300x300.png 300w"
+                    srcSet="./About_Leadership_MarkBell.png 800w, ./About_Leadership_MarkBell-300x300.png 300w"
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
                 </div>
@@ -470,8 +470,8 @@ const About = () => {
                     alt="Tauni MacLean"
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_TauniMacLean.png         800w,
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_TauniMacLean-300x300.png 300w
+                    ./About_Leadership_TauniMacLean.png         800w,
+                    ./About_Leadership_TauniMacLean-300x300.png 300w
                   "
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
@@ -492,7 +492,7 @@ const About = () => {
                     className="image-center"
                     alt="Joe Mandato"
                     loading="lazy"
-                    srcSet="https://www.coenterprise.com/uploads/2020/04/About_Leadership_JoeMandato.png 800w, https://www.coenterprise.com/uploads/2020/04/About_Leadership_JoeMandato-300x300.png 300w"
+                    srcSet="./About_Leadership_JoeMandato.png 800w, ./About_Leadership_JoeMandato-300x300.png 300w"
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
                 </div>
@@ -513,8 +513,8 @@ const About = () => {
                     alt="Lucy Maresco - VP of People"
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/05/About_Leadership_LucyMaresco.png         800w,
-                    https://www.coenterprise.com/uploads/2020/05/About_Leadership_LucyMaresco-300x300.png 300w
+                    ./About_Leadership_LucyMaresco.png         800w,
+                    ./About_Leadership_LucyMaresco-300x300.png 300w
                   "
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
@@ -537,8 +537,8 @@ const About = () => {
                     alt="Sophie Meneut"
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_SophieMeneut.png         800w,
-                    https://www.coenterprise.com/uploads/2020/04/About_Leadership_SophieMeneut-300x300.png 300w
+                    ./About_Leadership_SophieMeneut.png         800w,
+                    ./About_Leadership_SophieMeneut-300x300.png 300w
                   "
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
@@ -559,7 +559,7 @@ const About = () => {
                     className="image-center"
                     alt=""
                     loading="lazy"
-                    srcSet="https://www.coenterprise.com/uploads/2021/03/MaheshN_Headshot.png 800w, https://www.coenterprise.com/uploads/2021/03/MaheshN_Headshot-300x300.png 300w"
+                    srcSet="./MaheshN_Headshot.png 800w, ./MaheshN_Headshot-300x300.png 300w"
                     sizes="(max-width: 800px) 100vw, 800px"
                   />
                 </div>
@@ -580,9 +580,9 @@ const About = () => {
                     alt=""
                     loading="lazy"
                     srcSet="
-                    https://www.coenterprise.com/uploads/2020/12/HansOtharsson_Headshot.png         1118w,
-                    https://www.coenterprise.com/uploads/2020/12/HansOtharsson_Headshot-800x800.png  800w,
-                    https://www.coenterprise.com/uploads/2020/12/HansOtharsson_Headshot-300x300.png  300w
+                    ./HansOtharsson_Headshot.png         1118w,
+                    ./HansOtharsson_Headshot-800x800.png  800w,
+                    ./HansOtharsson_Headshot-300x300.png  300w
                   "
                     sizes="(max-width: 1118px) 100vw, 1118px"
                   />
@@ -605,7 +605,7 @@ const About = () => {
                 <span className="font-weight-300">Drop us a line. We’d love to hear from you.</span>
               </p>
               <p style={{ textAlign: "center" }}>
-                <a className="btn btn-aqua" href="https://www.coenterprise.com/contact/">
+                <a className="btn btn-aqua" href="/contact/">
                   Contact Us
                 </a>
               </p>

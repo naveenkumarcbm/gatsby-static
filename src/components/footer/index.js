@@ -9,22 +9,22 @@ const Footer = () => {
           <div className="col-md content-section">
             <ul id="menu-footer-nav-1" className="footer-menu">
               <li id="menu-item-68" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-68">
-                <Link to="/solutions"><a>Solutions</a></Link>
+                <Link to="/solutions">Solutions</Link>
                 <ul className="sub-menu">
                   <li id="menu-item-1403" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403">
-                    <Link to="/solutions/syncrofy_supply_chain"><a>Syncrofy for Supply Chain</a></Link>
+                    <Link to="/solutions/syncrofy_supply_chain">Syncrofy for Supply Chain</Link>
                   </li>
                   <li id="menu-item-69" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-69">
-                    <Link to="/solutions/syncrofy"><a>Syncrofy for EDI &amp; IT</a></Link>
+                    <Link to="/solutions/syncrofy">Syncrofy for EDI &amp; IT</Link>
                   </li>
                   <li id="menu-item-1630" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630">
-                    <Link to="/solutions/syncrofy-integration-cloud"><a>Syncrofy Integration Cloud</a></Link>
+                    <Link to="/solutions/syncrofy-integration-cloud">Syncrofy Integration Cloud</Link>
                   </li>
                   <li id="menu-item-70" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-70">
-                    <Link to="/solutions/integration"><a>Integration</a></Link>
+                    <Link to="/solutions/integration">Integration</Link>
                   </li>
                   <li id="menu-item-71" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-71">
-                    <Link to="/solutions/data-analytics"><a>Data Analytics</a></Link>
+                    <Link to="/solutions/data-analytics">Data Analytics</Link>
                   </li>
                 </ul>
               </li>
@@ -33,8 +33,8 @@ const Footer = () => {
           <div className="col-md content-section">
             <ul id="menu-footer-nav-2" className="footer-menu">
             <li id="menu-item-79" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-79">
-            {/* <Link to="/contact"><a>Contact</a></Link> */}
-                <Link to="/contact"><a>USA Address:</a></Link>
+            {/* <Link to="/contact">Contact</a></Link> */}
+                <Link to="/contact">USA Address:</Link>
                 <ul className="contact-address">
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403">
                     <span>509 Ayinger LN,</span>
@@ -48,7 +48,7 @@ const Footer = () => {
           <div className="col-md">
             <ul id="menu-footer-nav-3" className="footer-menu">
               <li id="menu-item-79" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-79">
-                <Link to="/contact"><a>India Address:</a></Link>
+                <Link to="/contact">India Address:</Link>
                 <ul className="contact-address">
                   <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403">
                     <span>B-12,Indian Airlines Employees colony,</span>

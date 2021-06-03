@@ -48,17 +48,17 @@ const ItEdi = () => {
 
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="size-thumbnail wp-image-662 aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_1_ProactivelyMonitor-300x300.png"
+                    src="../../ITedi_1_ProactivelyMonitor-300x300.png"
                     alt="Proactive Monitoring"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_1_ProactivelyMonitor-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_1_ProactivelyMonitor.png 800w"
+                    srcSet="../../ITedi_1_ProactivelyMonitor-300x300.png 300w, ../../ITedi_1_ProactivelyMonitor.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -71,17 +71,17 @@ const ItEdi = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-663 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_2_SpinningWheels-300x300.png"
+                    src="../../ITedi_2_SpinningWheels-300x300.png"
                     alt="Spinning Gear Wheels"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_2_SpinningWheels-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_2_SpinningWheels.png 800w"
+                    srcSet="../../ITedi_2_SpinningWheels-300x300.png 300w, ../../ITedi_2_SpinningWheels.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -94,17 +94,17 @@ const ItEdi = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-664 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_3_LackingTools-300x300.png"
+                    src="../../ITedi_3_LackingTools-300x300.png"
                     alt="Lacking Tools"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_3_LackingTools-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_3_LackingTools.png 800w"
+                    srcSet="../../ITedi_3_LackingTools-300x300.png 300w, ../../ITedi_3_LackingTools.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -118,17 +118,17 @@ const ItEdi = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-665 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_4_ReliantOnIT-300x300.png"
+                    src="../../ITedi_4_ReliantOnIT-300x300.png"
                     alt="IT Reliance"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_4_ReliantOnIT-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_4_ReliantOnIT.png 800w"
+                    srcSet="../../ITedi_4_ReliantOnIT-300x300.png 300w, ../../ITedi_4_ReliantOnIT.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -141,17 +141,17 @@ const ItEdi = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-666 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_7_CustomReports-300x300.png"
+                    src="../../ITedi_7_CustomReports-300x300.png"
                     alt="Custom EDI Reports"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_7_CustomReports-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_7_CustomReports.png 800w"
+                    srcSet="../../ITedi_7_CustomReports-300x300.png 300w, ../../ITedi_7_CustomReports.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -164,19 +164,19 @@ const ItEdi = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-667 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_6_EfficientCollaboration-300x300.png"
+                    src="../../ITedi_6_EfficientCollaboration-300x300.png"
                     alt="Efficient Collaboration"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/03/ITedi_6_EfficientCollaboration-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/03/ITedi_6_EfficientCollaboration.png         800w
+                    srcSet="
+                      ../../ITedi_6_EfficientCollaboration-300x300.png 300w,
+                      ../../ITedi_6_EfficientCollaboration.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -191,17 +191,17 @@ const ItEdi = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-668 size-thumbnail aligncenter"
-                    src="./Helping IT &amp; EDI Professionals _ EDI Visibility Software _ CoEnterprise_files/ITedi_5_TrackingIssues-300x300.png"
+                    src="../../ITedi_5_TrackingIssues-300x300.png"
                     alt="Tracking Issues"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/ITedi_5_TrackingIssues-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/ITedi_5_TrackingIssues.png 800w"
+                    srcSet="../../ITedi_5_TrackingIssues-300x300.png 300w, ../../ITedi_5_TrackingIssues.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>

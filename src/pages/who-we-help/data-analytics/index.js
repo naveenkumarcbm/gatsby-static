@@ -50,19 +50,19 @@ const DataAnalytics = () => {
 
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-717 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_1_DataVisibility-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_1_DataVisibility-300x300.png"
                     alt="Lacking Data Visibility"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_1_DataVisibility-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_1_DataVisibility.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_1_DataVisibility-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_1_DataVisibility.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -76,19 +76,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-718 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_2_NewVizualizations-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_2_NewVizualizations-300x300.png"
                     alt="New Data Visualizations"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_2_NewVizualizations-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_2_NewVizualizations.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_2_NewVizualizations-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_2_NewVizualizations.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -102,19 +102,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-719 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_1_RampUp-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_1_RampUp-300x300.png"
                     alt="Tableau Ramp Up"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_1_RampUp-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_1_RampUp.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_1_RampUp-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_1_RampUp.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -129,19 +129,19 @@ const DataAnalytics = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-720 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_3_DataMerge-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_3_DataMerge-300x300.png"
                     alt="Data Merge"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_3_DataMerge-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_3_DataMerge.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_3_DataMerge-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_3_DataMerge.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -155,19 +155,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-721 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_5_HealthCheck-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_5_HealthCheck-300x300.png"
                     alt="Tableau Servers Health Check"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_5_HealthCheck-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_5_HealthCheck.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_5_HealthCheck-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_5_HealthCheck.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -181,19 +181,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-722 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_6_ActionableBlueprint-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_6_ActionableBlueprint-300x300.png"
                     alt="Actionable Tableau Blueprint"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_6_ActionableBlueprint-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_6_ActionableBlueprint.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_6_ActionableBlueprint-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_6_ActionableBlueprint.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -208,19 +208,19 @@ const DataAnalytics = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-723 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_7_NewToTableau-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_7_NewToTableau-300x300.png"
                     alt="New Tableau User"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_7_NewToTableau-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_7_NewToTableau.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_7_NewToTableau-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_7_NewToTableau.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -234,19 +234,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-724 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_8_IntegrateTableau-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_8_IntegrateTableau-300x300.png"
                     alt="Integrate Tableau"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_8_IntegrateTableau-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_8_IntegrateTableau.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_8_IntegrateTableau-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_8_IntegrateTableau.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -260,19 +260,19 @@ const DataAnalytics = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-725 size-thumbnail"
-                    src="./Helping Data Analytics Professionals _ Data Analytics _ CoEnterprise_files/DataAnalyticsAndBusiness_9_TableauTraining-300x300.png"
+                    src="../../DataAnalyticsAndBusiness_9_TableauTraining-300x300.png"
                     alt="Tableau Training"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_9_TableauTraining-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/DataAnalyticsAndBusiness_9_TableauTraining.png         800w
+                    srcSet="
+                      ../../DataAnalyticsAndBusiness_9_TableauTraining-300x300.png 300w,
+                      ../../DataAnalyticsAndBusiness_9_TableauTraining.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />

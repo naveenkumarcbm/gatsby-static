@@ -30,13 +30,13 @@ const SupplyChain = () => {
               </p>
               <p>
                 <span style={{ fontWeight: 400}}
-                  >As the leading provider of EDI and supply chain visibility software – <a href="http://www.coenterprise.com/solutions/syncrofy">Syncrofy for EDI</a> – which is widely used by many
+                  >As the leading provider of EDI and supply chain visibility software – <a href="/solutions/syncrofy">Syncrofy for EDI</a> – which is widely used by many
                   top fortune 100 companies, and an IBM Platinum Business Partner and one of IBM’s largest B2B integration software resellers, we know a thing or two.&nbsp;</span
                 >
               </p>
               <p>
                 <span style={{ fontWeight: 400}}
-                  ><a href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">Syncrofy for Supply Chain</a> (SSC) provides real-time visibility to break down barriers across the supply
+                  ><a href="/solutions/syncrofy_supply_chain/">Syncrofy for Supply Chain</a> (SSC) provides real-time visibility to break down barriers across the supply
                   chain. It’s advanced real-time analytics and insights help companies solve costly problems before they occur and realize revenue fast by eliminating costly fines and chargebacks,
                   late shipments, and late payments.</span
                 >
@@ -63,17 +63,17 @@ const SupplyChain = () => {
 
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy_supply_chain/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-649 size-thumbnail aligncenter"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_2_Visibility-300x300.png"
+                    src="../../SupplyChain_2_Visibility-300x300.png"
                     alt="Supply Chain Visibility"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/SupplyChain_2_Visibility-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/SupplyChain_2_Visibility.png 800w"
+                    srcSet="../../SupplyChain_2_Visibility-300x300.png 300w, ../../SupplyChain_2_Visibility.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -84,19 +84,19 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy_supply_chain/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1049 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_3_OrderManagement-300x300.png"
+                    src="../../SupplyChain_3_OrderManagement-300x300.png"
                     alt="Order Management"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_3_OrderManagement-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_3_OrderManagement.png         800w
+                    srcSet="
+                      ../../SupplyChain_3_OrderManagement-300x300.png 300w,
+                      ../../SupplyChain_3_OrderManagement.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -108,17 +108,17 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy_supply_chain/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1050 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_4_TrackKPIs-300x300.png"
+                    src="../../SupplyChain_4_TrackKPIs-300x300.png"
                     alt="Track KPIs"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/04/SupplyChain_4_TrackKPIs-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/SupplyChain_4_TrackKPIs.png 800w"
+                    srcSet="../../SupplyChain_4_TrackKPIs-300x300.png 300w, ../../SupplyChain_4_TrackKPIs.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -130,19 +130,19 @@ const SupplyChain = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy_supply_chain/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-1051 size-thumbnail aligncenter"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_5_OrderVisibility-300x300.png"
+                    src="../../SupplyChain_5_OrderVisibility-300x300.png"
                     alt="Order Visibility"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_5_OrderVisibility-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_5_OrderVisibility.png         800w
+                    srcSet="
+                      ../../SupplyChain_5_OrderVisibility-300x300.png 300w,
+                      ../../SupplyChain_5_OrderVisibility.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -154,19 +154,19 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">
+            <a className="text-center hover-bucket h-100" href="/solutions/syncrofy_supply_chain/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1053 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_6_PartnerCollab-300x300.png"
+                    src="../../SupplyChain_6_PartnerCollab-300x300.png"
                     alt="Partner Collaboration"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_6_PartnerCollab-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_6_PartnerCollab.png         800w
+                    srcSet="
+                      ../../SupplyChain_6_PartnerCollab-300x300.png 300w,
+                      ../../SupplyChain_6_PartnerCollab.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -178,17 +178,17 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-648 size-thumbnail aligncenter"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_1_ExecIssues-300x300.png"
+                    src="../../SupplyChain_1_ExecIssues-300x300.png"
                     alt="Execution Issues"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/SupplyChain_1_ExecIssues-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/SupplyChain_1_ExecIssues.png 800w"
+                    srcSet="../../SupplyChain_1_ExecIssues-300x300.png 300w, ../../SupplyChain_1_ExecIssues.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -200,17 +200,17 @@ const SupplyChain = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1054 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_7_Monitoring-300x300.png"
+                    src="../../SupplyChain_7_Monitoring-300x300.png"
                     alt="Effective Monitoring"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/04/SupplyChain_7_Monitoring-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/SupplyChain_7_Monitoring.png 800w"
+                    srcSet="../../SupplyChain_7_Monitoring-300x300.png 300w, ../../SupplyChain_7_Monitoring.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>
@@ -221,19 +221,19 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1055 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_8_TransactionVisibility-300x300.png"
+                    src="../../SupplyChain_8_TransactionVisibility-300x300.png"
                     alt="Transaction Visibility"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_8_TransactionVisibility-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_8_TransactionVisibility.png         800w
+                    srcSet="
+                      ../../SupplyChain_8_TransactionVisibility-300x300.png 300w,
+                      ../../SupplyChain_8_TransactionVisibility.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -245,19 +245,19 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-1056 size-thumbnail"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_9_SpinningWheels-300x300.png"
+                    src="../../SupplyChain_9_SpinningWheels-300x300.png"
                     alt="Spinning Wheels"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_9_SpinningWheels-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SupplyChain_9_SpinningWheels.png         800w
+                    srcSet="
+                      ../../SupplyChain_9_SpinningWheels-300x300.png 300w,
+                      ../../SupplyChain_9_SpinningWheels.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -270,19 +270,19 @@ const SupplyChain = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-657 size-thumbnail aligncenter"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_10_ComplexIntegrations-300x300.png"
+                    src="../../SupplyChain_10_ComplexIntegrations-300x300.png"
                     alt="Complex Integrations"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/03/SupplyChain_10_ComplexIntegrations-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/03/SupplyChain_10_ComplexIntegrations.png         800w
+                    srcSet="
+                      ../../SupplyChain_10_ComplexIntegrations-300x300.png 300w,
+                      ../../SupplyChain_10_ComplexIntegrations.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -294,17 +294,17 @@ const SupplyChain = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+            <a className="text-center hover-bucket h-100" href="/solutions/integration/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-658 size-thumbnail aligncenter"
-                    src="./Supply Chain Visibility _ CoEnterprise_files/SupplyChain_11_Security-300x300.png"
+                    src="../../SupplyChain_11_Security-300x300.png"
                     alt="Security"
                     width="75"
                     height="75"
-                    srcset="https://www.coenterprise.com/uploads/2020/03/SupplyChain_11_Security-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/SupplyChain_11_Security.png 800w"
+                    srcSet="../../SupplyChain_11_Security-300x300.png 300w, ../../SupplyChain_11_Security.png 800w"
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
                 </p>

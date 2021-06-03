@@ -41,7 +41,7 @@ const Solutions = () => {
                       alt="syncrofy"
                       width="80"
                       height="80"
-                      srcSet="https://www.coenterprise.com/uploads/2020/03/OurSolutions_Syncrofy-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/OurSolutions_Syncrofy.png 800w"
+                      srcSet="./OurSolutions_Syncrofy-300x300.png 300w, ./OurSolutions_Syncrofy.png 800w"
                       sizes="(max-width: 80px) 100vw, 80px"
                     />
                   </p>
@@ -53,7 +53,7 @@ const Solutions = () => {
                       better-informed decisions all from a centralized platform. SSC is your real-time, supply chain advisor anytime, anywhere.</span
                     >
                   </p>
-                  <p><a className="btn btn-orange-outline" href="https://www.coenterprise.com/solutions/syncrofy_supply_chain/">Learn more</a></p>
+                  <p><a className="btn btn-orange-outline" href="/solutions/syncrofy_supply_chain/">Learn more</a></p>
                   <h2></h2>
                   <h2 className="h4">Syncrofy for EDI &amp; IT</h2>
                   <p>
@@ -64,7 +64,7 @@ const Solutions = () => {
                       answer.</span
                     >
                   </p>
-                  <p><a className="btn btn-orange-outline" href="https://www.coenterprise.com/solutions/syncrofy">Learn more</a></p>
+                  <p><a className="btn btn-orange-outline" href="/solutions/syncrofy">Learn more</a></p>
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@ const Solutions = () => {
                       alt="Integration"
                       width="80"
                       height="80"
-                      srcSet="https://www.coenterprise.com/uploads/2020/03/Integration-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/Integration.png 800w"
+                      srcSet="./Integration-300x300.png 300w, ./Integration.png 800w"
                       sizes="(max-width: 80px) 100vw, 80px"
                     />
                   </p>
@@ -90,7 +90,7 @@ const Solutions = () => {
                     will work with you to streamline your business processes, work more efficiently with both your internal teams and partners, secure your transactions and communications, and make
                     better overall decisions for the future of your business—helping you get the most out of your IBM implementation.
                   </p>
-                  <p><a className="btn btn-orange-outline" href="https://www.coenterprise.com/solutions/integration">Learn more</a></p>
+                  <p><a className="btn btn-orange-outline" href="/solutions/integration">Learn more</a></p>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@ const Solutions = () => {
                       alt="data analytics"
                       width="80"
                       height="80"
-                      srcSet="https://www.coenterprise.com/uploads/2020/03/DataAnalytics-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/DataAnalytics.png 800w"
+                      srcSet="./DataAnalytics-300x300.png 300w, ./DataAnalytics.png 800w"
                       sizes="(max-width: 80px) 100vw, 80px"
                     />
                   </p>
@@ -117,7 +117,7 @@ const Solutions = () => {
                     help with data strategy, custom visualizations and dashboarding in Tableau, training and support, or just looking to integrate your data with existing in-house solutions, we have
                     the experts on hand to meet your goals.
                   </p>
-                  <p><a className="btn btn-orange-outline" href="https://www.coenterprise.com/solutions/data-analytics">Learn more</a></p>
+                  <p><a className="btn btn-orange-outline" href="/solutions/data-analytics">Learn more</a></p>
                 </div>
               </div>
             </div>
@@ -134,8 +134,8 @@ const Solutions = () => {
                       width="80"
                       height="80"
                       srcSet="
-                        https://www.coenterprise.com/uploads/2020/03/Hybrid-Integration-Platform-300x300.png 300w,
-                        https://www.coenterprise.com/uploads/2020/03/Hybrid-Integration-Platform.png         800w
+                        ./Hybrid-Integration-Platform-300x300.png 300w,
+                        ./Hybrid-Integration-Platform.png         800w
                       "
                       sizes="(max-width: 80px) 100vw, 80px"
                     />
@@ -146,7 +146,7 @@ const Solutions = () => {
                     hybrid integration cloud has become one of the fastest growing technologies for businesses who require that connectivity. Our Hybrid Integration Platform (HIP) is here to help
                     propel your business to the next level and into the future. Let us help you successfully bring your data to the cloud.
                   </p>
-                  <p><a className="btn btn-orange-outline" href="https://www.coenterprise.com/solutions/hybrid-integration-platform">Learn more</a></p>
+                  <p><a className="btn btn-orange-outline" href="/solutions/hybrid-integration-platform">Learn more</a></p>
                 </div>
               </div>
             </div>

@@ -51,19 +51,19 @@ const SalesMarketing = () => {
 
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="wp-image-697 size-thumbnail aligncenter"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_1_PipelineVisibility-300x300.png"
+                    src="../../SalesAndMarketing_1_PipelineVisibility-300x300.png"
                     alt="Lacking Pipeline Visibility"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_1_PipelineVisibility-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_1_PipelineVisibility.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_1_PipelineVisibility-300x300.png 300w,
+                      ../../SalesAndMarketing_1_PipelineVisibility.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -77,19 +77,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-699 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_2_ConversionStruggles-300x300.png"
+                    src="../../SalesAndMarketing_2_ConversionStruggles-300x300.png"
                     alt="Conversion Struggles"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_2_ConversionStruggles-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_2_ConversionStruggles.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_2_ConversionStruggles-300x300.png 300w,
+                      ../../SalesAndMarketing_2_ConversionStruggles.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -103,19 +103,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-700 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_3_ShareVisuals-300x300.png"
+                    src="../../SalesAndMarketing_3_ShareVisuals-300x300.png"
                     alt="Data Visualization"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_3_ShareVisuals-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_3_ShareVisuals.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_3_ShareVisuals-300x300.png 300w,
+                      ../../SalesAndMarketing_3_ShareVisuals.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -130,19 +130,19 @@ const SalesMarketing = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-702 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_4_CampaignResults-300x300.png"
+                    src="../../SalesAndMarketing_4_CampaignResults-300x300.png"
                     alt="Campaign Results"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_4_CampaignResults-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_4_CampaignResults.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_4_CampaignResults-300x300.png 300w,
+                      ../../SalesAndMarketing_4_CampaignResults.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -156,19 +156,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-704 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_5_ActionableRecommendations-300x300.png"
+                    src="../../SalesAndMarketing_5_ActionableRecommendations-300x300.png"
                     alt="Actionable Recommendations"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_5_ActionableRecommendations-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_5_ActionableRecommendations.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_5_ActionableRecommendations-300x300.png 300w,
+                      ../../SalesAndMarketing_5_ActionableRecommendations.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -182,19 +182,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-706 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_6_PredictResults-300x300.png"
+                    src="../../SalesAndMarketing_6_PredictResults-300x300.png"
                     alt="Predict Lead Generation Results"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_6_PredictResults-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_6_PredictResults.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_6_PredictResults-300x300.png 300w,
+                      ../../SalesAndMarketing_6_PredictResults.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -209,19 +209,19 @@ const SalesMarketing = () => {
         </div>
         <div className="row justify-content-center">
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-707 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_7_IntegrateTableau-300x300.png"
+                    src="../../SalesAndMarketing_7_IntegrateTableau-300x300.png"
                     alt="Integrate Tableau"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_7_IntegrateTableau-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_7_IntegrateTableau.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_7_IntegrateTableau-300x300.png 300w,
+                      ../../SalesAndMarketing_7_IntegrateTableau.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -235,19 +235,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-709 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_8_NewPartner-300x300.png"
+                    src="../../SalesAndMarketing_8_NewPartner-300x300.png"
                     alt="Tableau Partner"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_8_NewPartner-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_8_NewPartner.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_8_NewPartner-300x300.png 300w,
+                      ../../SalesAndMarketing_8_NewPartner.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />
@@ -261,19 +261,19 @@ const SalesMarketing = () => {
           </div>
 
           <div className="col-lg-4 content-section">
-            <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/data-analytics/">
+            <a className="text-center hover-bucket h-100" href="/solutions/data-analytics/">
               <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                 <p>
                   <img
                     loading="lazy"
                     className="aligncenter wp-image-710 size-thumbnail"
-                    src="./Sales &amp; Marketing _ Who We Help _ CoEnterprise_files/SalesAndMarketing_9_TableauTraining-300x300.png"
+                    src="../../SalesAndMarketing_9_TableauTraining-300x300.png"
                     alt="Tableau Training"
                     width="75"
                     height="75"
-                    srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_9_TableauTraining-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SalesAndMarketing_9_TableauTraining.png         800w
+                    srcSet="
+                      ../../SalesAndMarketing_9_TableauTraining-300x300.png 300w,
+                      ../../SalesAndMarketing_9_TableauTraining.png         800w
                     "
                     sizes="(max-width: 75px) 100vw, 75px"
                   />

@@ -49,19 +49,19 @@ const SystemItegaration = () => {
 
           <div className="row justify-content-center">
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+              <a className="text-center hover-bucket h-100" href="/solutions/integration/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_1_NewtoSterling-300x300.png"
+                      src="../../SysIntegration_1_NewtoSterling-300x300.png"
                       alt="new to IBM Sterling"
                       width="75"
                       height="75"
-                      srcset="
-                      https://www.coenterprise.com/uploads/2020/04/SysIntegration_1_NewtoSterling-300x300.png 300w,
-                      https://www.coenterprise.com/uploads/2020/04/SysIntegration_1_NewtoSterling.png         800w
+                      srcSet="
+                      ../../SysIntegration_1_NewtoSterling-300x300.png 300w,
+                      ../../SysIntegration_1_NewtoSterling.png         800w
                     "
                       sizes="(max-width: 75px) 100vw, 75px"
                     />
@@ -75,13 +75,13 @@ const SystemItegaration = () => {
             </div>
 
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+              <a className="text-center hover-bucket h-100" href="/solutions/integration/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_2_LegacyInadequate-300x300.png"
+                      src="../../SysIntegration_2_LegacyInadequate-300x300.png"
                       alt="my legacy platform is inadequate"
                       width="75"
                       height="75"
@@ -96,13 +96,13 @@ const SystemItegaration = () => {
             </div>
 
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/integration/">
+              <a className="text-center hover-bucket h-100" href="/solutions/integration/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_3_NoPlatformControl-300x300.png"
+                      src="../../SysIntegration_3_NoPlatformControl-300x300.png"
                       alt="no platform control"
                       width="75"
                       height="75"
@@ -118,13 +118,13 @@ const SystemItegaration = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/hybrid-integration-platform/">
+              <a className="text-center hover-bucket h-100" href="/solutions/hybrid-integration-platform/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_4_FasterTransfers-300x300.png"
+                      src="../../SysIntegration_4_FasterTransfers-300x300.png"
                       alt="Faster Transfer"
                       width="75"
                       height="75"
@@ -139,13 +139,13 @@ const SystemItegaration = () => {
             </div>
 
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/hybrid-integration-platform/">
+              <a className="text-center hover-bucket h-100" href="/solutions/hybrid-integration-platform/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_5_LackingDataSecurity-300x300.png"
+                      src="../../SysIntegration_5_LackingDataSecurity-300x300.png"
                       alt="Lacking Data Security"
                       width="75"
                       height="75"
@@ -160,13 +160,13 @@ const SystemItegaration = () => {
             </div>
 
             <div className="col-lg-4 content-section">
-              <a className="text-center hover-bucket h-100" href="https://www.coenterprise.com/solutions/hybrid-integration-platform/">
+              <a className="text-center hover-bucket h-100" href="/solutions/hybrid-integration-platform/">
                 <div className="hover-bucket-inner box-shadow-1 box-shadow-padding-2 h-100">
                   <p>
                     <img
                       loading="lazy"
                       className="wp-image-853 size-thumbnail aligncenter"
-                      src="./Systems Integration _ CoEnterprise_files/SysIntegration_7_PartnerMigration-300x300.png"
+                      src="../../SysIntegration_7_PartnerMigration-300x300.png"
                       alt="Partner Migration"
                       width="75"
                       height="75"

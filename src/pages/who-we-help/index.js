@@ -46,8 +46,8 @@ const WhoWeHelp = () => {
                           width="70"
                           height="70"
                           srcSet="
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Software_SupplyChain-300x300.png 300w,
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Software_SupplyChain.png         800w
+                            ./WhoWeHelp_Software_SupplyChain-300x300.png 300w,
+                            ./WhoWeHelp_Software_SupplyChain.png         800w
                           "
                           sizes="(max-width: 70px) 100vw, 70px"
                         />
@@ -59,8 +59,8 @@ const WhoWeHelp = () => {
                         invoice? And what if all that information was on-demand at your fingertips in a single, unified platform that allowed you to collaborate and communicate with your trading partners?
                         That world is here!
                       </p>
-                      <p><a className="btn btn-aqua" href="https://www.coenterprise.com/who-we-help/supply-chain/">See how we help Supply Chain</a></p>
-                      <p><a className="arrow-link green-link" href="https://www.coenterprise.com/solutions/syncrofy/">Dive right in to our Syncrofy solution</a></p>
+                      <p><a className="btn btn-aqua" href="/who-we-help/supply-chain/">See how we help Supply Chain</a></p>
+                      <p><a className="arrow-link green-link" href="/solutions/syncrofy/">Dive right in to our Syncrofy solution</a></p>
                     </div>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const WhoWeHelp = () => {
                           alt="Software IT and EDI"
                           width="70"
                           height="70"
-                          srcSet="https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Software_EDI-300x300.png 300w, https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Software_EDI.png 800w"
+                          srcSet="./WhoWeHelp_Software_EDI-300x300.png 300w, ./WhoWeHelp_Software_EDI.png 800w"
                           sizes="(max-width: 70px) 100vw, 70px"
                         />
                       </p>
@@ -90,8 +90,8 @@ const WhoWeHelp = () => {
                         What if you had the ability to focus your time on other pressing business issues and tasks without having to worry about daily and hourly EDI requests? What if you had a solution
                         that enabled anyone at your firm to act upon critical business data to solve real problems without the need for your time and expertise? Your task list just got a lot shorter.
                       </p>
-                      <p><a className="btn btn-aqua" href="https://www.coenterprise.com/who-we-help/it-edi/">See how we help IT &amp; EDI</a></p>
-                      <p><a className="arrow-link green-link" href="https://www.coenterprise.com/solutions/syncrofy/">Dive right in to our Syncrofy Solution</a></p>
+                      <p><a className="btn btn-aqua" href="/who-we-help/it-edi/">See how we help IT &amp; EDI</a></p>
+                      <p><a className="arrow-link green-link" href="/solutions/syncrofy/">Dive right in to our Syncrofy Solution</a></p>
                     </div>
                   </div>
                 </div>
@@ -110,8 +110,8 @@ const WhoWeHelp = () => {
                           width="70"
                           height="70"
                           srcSet="
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_SupplyChain-300x300.png 300w,
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_SupplyChain.png         800w
+                            ./WhoWeHelp_Services_SupplyChain-300x300.png 300w,
+                            ./WhoWeHelp_Services_SupplyChain.png         800w
                           "
                           sizes="(max-width: 70px) 100vw, 70px"
                         />
@@ -121,7 +121,7 @@ const WhoWeHelp = () => {
                         Our expertise and command of supply chain strategy and integration makes us the worldwide leader in the B2B marketplace. As the only IBM Platinum Business Partner in the Watson
                         Supply Chain, CoEnterprise is uniquely positioned to enable your teams to operate more effectively and drive faster, more efficient business decisions.
                       </p>
-                      <p><a className="btn btn-aqua" href="https://www.coenterprise.com/solutions/integration/">Learn more about our Integration services</a></p>
+                      <p><a className="btn btn-aqua" href="/solutions/integration/">Learn more about our Integration services</a></p>
                     </div>
                   </div>
                 </div>
@@ -137,7 +137,7 @@ const WhoWeHelp = () => {
                           alt="sales and marketing"
                           width="70"
                           height="70"
-                          srcSet="https://www.coenterprise.com/uploads/2020/04/Home_SalesandMarketing-300x300.png 300w, https://www.coenterprise.com/uploads/2020/04/Home_SalesandMarketing.png 800w"
+                          srcSet="./Home_SalesandMarketing-300x300.png 300w, ./Home_SalesandMarketing.png 800w"
                           sizes="(max-width: 70px) 100vw, 70px"
                         />
                       </p>
@@ -147,7 +147,7 @@ const WhoWeHelp = () => {
                         Salesforce, Tableau, and Einstein AI, you’ll be able to visualize and predict opportunities at every stage to forecast more effectively, be proactive with sales insights, and hit
                         your targets more frequently.
                       </p>
-                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="https://www.coenterprise.com/solutions/data-analytics/">Learn more about The CoEnterprise Customer 360 Experience</a></p>
+                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="/solutions/data-analytics/">Learn more about The CoEnterprise Customer 360 Experience</a></p>
                     </div>
                   </div>
                 </div>
@@ -164,8 +164,8 @@ const WhoWeHelp = () => {
                           width="62"
                           height="62"
                           srcSet="
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_Analytics-300x300.png 300w,
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_Analytics.png         800w
+                            ./WhoWeHelp_Services_Analytics-300x300.png 300w,
+                            ./WhoWeHelp_Services_Analytics.png         800w
                           "
                           sizes="(max-width: 62px) 100vw, 62px"
                         />
@@ -175,8 +175,8 @@ const WhoWeHelp = () => {
                         Our hands-on approach to analytics, visualization, consulting, and training is what makes us the most trusted Tableau partner in North America. With over 200 projects completed
                         annually and thousands of custom visualizations implemented, CoEnterprise’s data analytics practice provides companies with truly actionable insights for their business today.
                       </p>
-                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="https://www.coenterprise.com/solutions/data-analytics/">Learn more about our Data Analytics services</a></p>
-                      <p style={{textAlign: "left"}}><a className="arrow-link green-link" href="https://www.coenterprise.com/solutions/syncrofy/">Dive right in to our Syncrofy solution</a></p>
+                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="/solutions/data-analytics/">Learn more about our Data Analytics services</a></p>
+                      <p style={{textAlign: "left"}}><a className="arrow-link green-link" href="/solutions/syncrofy/">Dive right in to our Syncrofy solution</a></p>
                     </div>
                   </div>
                 </div>
@@ -193,8 +193,8 @@ const WhoWeHelp = () => {
                           width="70"
                           height="70"
                           srcSet="
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_SysIntegrations-300x300.png 300w,
-                            https://www.coenterprise.com/uploads/2020/03/WhoWeHelp_Services_SysIntegrations.png         800w
+                            ./WhoWeHelp_Services_SysIntegrations-300x300.png 300w,
+                            ./WhoWeHelp_Services_SysIntegrations.png         800w
                           "
                           sizes="(max-width: 70px) 100vw, 70px"
                         />
@@ -205,7 +205,7 @@ const WhoWeHelp = () => {
                         hybrid integration cloud has become one of the fastest growing technologies for businesses who require that connectivity. Our Hybrid Integration Platform (HIP) is here to help
                         propel your business to the next level and into the future.
                       </p>
-                      <p><a className="btn btn-aqua" href="https://www.coenterprise.com/solutions/hybrid-integration-platform/">Learn more about our Hybrid Integration Platform</a></p>
+                      <p><a className="btn btn-aqua" href="/solutions/hybrid-integration-platform/">Learn more about our Hybrid Integration Platform</a></p>
                     </div>
                   </div>
                 </div>
@@ -222,7 +222,7 @@ const WhoWeHelp = () => {
                   Do you have any questions?<br />
                   <span className="font-weight-300">Contact Us.</span>
                 </h2>
-                <p style={{textAlign: "center"}}><a className="btn btn-aqua" href="https://www.coenterprise.com/contact/">Reach Out Today</a></p>
+                <p style={{textAlign: "center"}}><a className="btn btn-aqua" href="/contact/">Reach Out Today</a></p>
               </div>
             </div>
           </div>
