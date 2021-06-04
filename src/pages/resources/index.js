@@ -24,7 +24,7 @@ const Resources = () => {
             <div className="resource-bucket-wrapper h-100 content-tight">
               <div
                 className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                style={{backgroundImage: "url(/uploads/2021/02/Industry-Today-1-300x110.png)"}}
+                style={{backgroundImage: "url(./Industry-Today-1-300x110.png)"}}
               >
                 <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 news">
                   <div className="resource-bucket-top">
@@ -47,7 +47,7 @@ const Resources = () => {
             <div className="resource-bucket-wrapper h-100 content-tight">
               <div
                 className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                style={{backgroundImage: "url(/uploads/2021/01/chargebacks_BlogPost_feauredimage_02-300x158.png)"}}
+                style={{backgroundImage: "url(./chargebacks_BlogPost_feauredimage_02-300x158.png)"}}
               >
                 <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 blog">
                   <div className="resource-bucket-top">
@@ -67,7 +67,7 @@ const Resources = () => {
 
           <div className="col-lg-4 content-section-tight">
             <div className="resource-bucket-wrapper h-100 content-tight">
-              <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(/uploads/2021/02/SDC-logo.png)"}}>
+              <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(./SDC-logo.png)"}}>
                 <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 news">
                   <div className="resource-bucket-top">
                     <p className="post-type scrunch-top">News</p>
@@ -89,7 +89,7 @@ const Resources = () => {
             <div className="resource-bucket-wrapper h-100 content-tight">
               <div
                 className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                style={{backgroundImage: "url(/uploads/2020/12/SyncrofyIT_BlogPost_02-300x158.png)"}}
+                style={{backgroundImage: "url(./SyncrofyIT_BlogPost_02-300x158.png)"}}
               >
                 <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 blog">
                   <div className="resource-bucket-top">
@@ -115,7 +115,7 @@ const Resources = () => {
             <div className="resource-bucket-wrapper h-100 content-tight">
               <div
                 className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                style={{backgroundImage: "url(/uploads/2021/02/supply-chain-brain-logo-300x50.gif)"}}
+                style={{backgroundImage: "url(./supply-chain-brain-logo-300x50.gif)"}}
               >
                 <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-2 h-100 news">
                   <div className="resource-bucket-top">
@@ -231,7 +231,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/04/snowflakeIII_BlogPost_FeaturedImage-300x169.png)"}}
+                  style={{backgroundImage: "url(./snowflakeIII_BlogPost_FeaturedImage-300x169.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay1">
                     <div className="resource-bucket-top">
@@ -256,7 +256,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/04/RecievingOperations_BlogPost_01-300x169.png)"}}
+                  style={{backgroundImage: "url(./RecievingOperations_BlogPost_01-300x169.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay2">
                     <div className="resource-bucket-top">
@@ -277,7 +277,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/04/TableauPrep_Blog_header-300x158.png)"}}
+                  style={{backgroundImage: "url(./TableauPrep_Blog_header-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay3">
                     <div className="resource-bucket-top">
@@ -298,7 +298,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/04/snowflakeII-300x158.png)"}}
+                  style={{backgroundImage: "url(./snowflakeII-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay4">
                     <div className="resource-bucket-top">
@@ -336,7 +336,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/04/b2bassurancepreview-300x300.png)"}}
+                  style={{backgroundImage: "url(./b2bassurancepreview-300x300.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay5">
                     <div className="resource-bucket-top">
@@ -358,7 +358,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/09/BlogPost_Fines-Chargebacks-Slowing-Down-Your-Supply-Chain_02-300x158.png)"}}
+                  style={{backgroundImage: "url(./BlogPost_Fines-Chargebacks-Slowing-Down-Your-Supply-Chain_02-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay6">
                     <div className="resource-bucket-top">
@@ -378,7 +378,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/12/SyncrofyIT_BlogPost_02-300x158.png)"}}
+                  style={{backgroundImage: "url(./SyncrofyIT_BlogPost_02-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay7">
                     <div className="resource-bucket-top">
@@ -400,7 +400,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/07/CoEnterprise_Supply_Chain_Predictions-300x133.jpg)"}}
+                  style={{backgroundImage: "url(./CoEnterprise_Supply_Chain_Predictions-300x133.jpg)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay1">
                     <div className="resource-bucket-top">
@@ -435,7 +435,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/05/supply-chain-software-technology-1000x600-1-300x180.jpg)"}}
+                  style={{backgroundImage: "url(./supply-chain-software-technology-1000x600-1-300x180.jpg)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay2">
                     <div className="resource-bucket-top">
@@ -453,7 +453,7 @@ const Resources = () => {
             </div>
             <div className="col-md-6 col-lg-3 content-section-tight">
               <div className="resource-bucket-wrapper h-100 content-tight">
-                <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(/uploads/2021/03/Food-Logistics-2.png)"}}>
+                <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(./Food-Logistics-2.png)"}}>
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay3">
                     <div className="resource-bucket-top">
                       <p className="post-type scrunch-top">News</p>
@@ -474,7 +474,7 @@ const Resources = () => {
             </div>
             <div className="col-md-6 col-lg-3 content-section-tight">
               <div className="resource-bucket-wrapper h-100 content-tight">
-                <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(/uploads/2021/03/Food-Logistics-2.png)"}}>
+                <div className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse" style={{backgroundImage: "url(./Food-Logistics-2.png)"}}>
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay4">
                     <div className="resource-bucket-top">
                       <p className="post-type scrunch-top">News</p>
@@ -497,7 +497,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/03/Retail-Hospitality-Hub-300x34.png)"}}
+                  style={{backgroundImage: "url(./Retail-Hospitality-Hub-300x34.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay5">
                     <div className="resource-bucket-top">
@@ -534,7 +534,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/03/MaheshN_Headshot-300x300.png)"}}
+                  style={{backgroundImage: "url(./MaheshN_Headshot-300x300.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay6">
                     <div className="resource-bucket-top">
@@ -616,7 +616,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/04/Mark-Jennifer-PR-300x161.jpg)"}}
+                  style={{backgroundImage: "url(./Mark-Jennifer-PR-300x161.jpg)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay2">
                     <div className="resource-bucket-top">
@@ -658,7 +658,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/05/Analytics_Snowflake_Content-300x209.png)"}}
+                  style={{backgroundImage: "url(./Analytics_Snowflake_Content-300x209.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay3">
                     <div className="resource-bucket-top">
@@ -678,7 +678,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/03/vendorcompliance_ebook-300x158.png)"}}
+                  style={{backgroundImage: "url(./vendorcompliance_ebook-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay4">
                     <div className="resource-bucket-top">
@@ -704,7 +704,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/02/chargebacks_ebook_featuredimage-300x157.png)"}}
+                  style={{backgroundImage: "url(./chargebacks_ebook_featuredimage-300x157.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay5">
                     <div className="resource-bucket-top">
@@ -724,7 +724,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/04/TableauPrep_Blog_header-300x158.png)"}}
+                  style={{backgroundImage: "url(./TableauPrep_Blog_header-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay6">
                     <div className="resource-bucket-top">
@@ -761,7 +761,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/05/snowflake_overview_featuredimage-300x158.png)"}}
+                  style={{backgroundImage: "url(./snowflake_overview_featuredimage-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay7">
                     <div className="resource-bucket-top">
@@ -783,7 +783,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2020/03/Syncrofy-cloud-300x165.png)"}}
+                  style={{backgroundImage: "url(./Syncrofy-cloud-300x165.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay1">
                     <div className="resource-bucket-top">
@@ -801,7 +801,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/03/Syncrofy-for-EDI-vs-Syncrofy-for-Supply-Chain-300x173.png)"}}
+                  style={{backgroundImage: "url(./Syncrofy-for-EDI-vs-Syncrofy-for-Supply-Chain-300x173.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay2">
                     <div className="resource-bucket-top">
@@ -825,7 +825,7 @@ const Resources = () => {
               <div className="resource-bucket-wrapper h-100 content-tight">
                 <div
                   className="resource-bucket box-shadow-1 h-100 bg-cover content-inverse links-inverse"
-                  style={{backgroundImage: "url(/uploads/2021/03/professionalservicesoverview-300x158.png)"}}
+                  style={{backgroundImage: "url(./professionalservicesoverview-300x158.png)"}}
                 >
                   <div className="resource-bucket-spacing resource-bucket-color-overlay box-shadow-padding-4 h-100 overlay3">
                     <div className="resource-bucket-top">
