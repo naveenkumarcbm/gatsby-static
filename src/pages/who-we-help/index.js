@@ -119,7 +119,7 @@ const WhoWeHelp = () => {
                       <h3 className="h4">Supply Chain Professionals</h3>
                       <p>
                         Our expertise and command of supply chain strategy and integration makes us the worldwide leader in the B2B marketplace. As the only IBM Platinum Business Partner in the Watson
-                        Supply Chain, CoEnterprise is uniquely positioned to enable your teams to operate more effectively and drive faster, more efficient business decisions.
+                        Supply Chain, Sass Innovations is uniquely positioned to enable your teams to operate more effectively and drive faster, more efficient business decisions.
                       </p>
                       <p><a className="btn btn-aqua" href="/solutions/integration/">Learn more about our Integration services</a></p>
                     </div>
@@ -147,7 +147,7 @@ const WhoWeHelp = () => {
                         Salesforce, Tableau, and Einstein AI, you’ll be able to visualize and predict opportunities at every stage to forecast more effectively, be proactive with sales insights, and hit
                         your targets more frequently.
                       </p>
-                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="/solutions/data-analytics/">Learn more about The CoEnterprise Customer 360 Experience</a></p>
+                      <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="/solutions/data-analytics/">Learn more about The Sass Innovations Customer 360 Experience</a></p>
                     </div>
                   </div>
                 </div>
@@ -173,7 +173,7 @@ const WhoWeHelp = () => {
                       <h3 className="h4">Data Integration &amp; Business Intelligence Professionals</h3>
                       <p>
                         Our hands-on approach to analytics, visualization, consulting, and training is what makes us the most trusted Tableau partner in North America. With over 200 projects completed
-                        annually and thousands of custom visualizations implemented, CoEnterprise’s data analytics practice provides companies with truly actionable insights for their business today.
+                        annually and thousands of custom visualizations implemented, Sass Innovations’s data analytics practice provides companies with truly actionable insights for their business today.
                       </p>
                       <p style={{textAlign: "left"}}><a className="btn btn-aqua" href="/solutions/data-analytics/">Learn more about our Data Analytics services</a></p>
                       <p style={{textAlign: "left"}}><a className="arrow-link green-link" href="/solutions/syncrofy/">Dive right in to our Syncrofy solution</a></p>

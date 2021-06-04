@@ -31,7 +31,7 @@ const Partners = () => {
                 <h2>Who We Are</h2>
               </div>
               <div className="col-md">
-                <p>At CoEnterprise, we’re not colleagues, we’re family. We work, play and succeed—together. We build, design, develop, implement, solve, manage, lead and make an impact—together.</p>
+                <p>At Sass Innovations, we’re not colleagues, we’re family. We work, play and succeed—together. We build, design, develop, implement, solve, manage, lead and make an impact—together.</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
               </div>
@@ -52,7 +52,7 @@ const Partners = () => {
                 <div className="embed-responsive embed-responsive-16by9">
                   <iframe
                     loading="lazy"
-                    title="CoEnterprise: A Great Place to Work"
+                    title="Sass Innovations: A Great Place to Work"
                     width="800"
                     height="450"
                     src="../../jFzC1lT71wo.html"
@@ -189,7 +189,7 @@ const Partners = () => {
                       loading="lazy"
                       className="alignnone wp-image-744"
                       src="../../Careers_CollabLearning-300x300.png"
-                      alt="collaborative learning at CoEnterprise"
+                      alt="collaborative learning at Sass Innovations"
                       width="75"
                       height="75"
                       srcSet="../../Careers_CollabLearning-300x300.png 300w, ../../Careers_CollabLearning.png 800w"
@@ -286,7 +286,7 @@ const Partners = () => {
                               <div className="testimonial-quote-wrapper">
                                 <p>
                                   "In reality, human resources can only do so much when it comes to promoting a company culture, you need buy-in from everyone—from the top down to really create a
-                                  lasting culture everyone can be proud of. I’m proud to say we definitely have that here at CoEnterprise. It’s truly a great place to work."
+                                  lasting culture everyone can be proud of. I’m proud to say we definitely have that here at Sass Innovations. It’s truly a great place to work."
                                 </p>
                               </div>
 
@@ -356,7 +356,7 @@ const Partners = () => {
           <div className="row justify-content-center">
             <div className="col-md-8">
               <h2 style={{ textAlign: "center" }}>
-                Have a question or would like to apply for a job with CoEnterprise?
+                Have a question or would like to apply for a job with Sass Innovations?
                 <br />
                 <span className="font-weight-300">Drop us a line</span>
               </h2>

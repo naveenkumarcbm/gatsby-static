@@ -20,7 +20,7 @@ const Header = ({ headerclassName }) => {
                     src=""
                     alt="Sass Innovations"
                   /> */}
-                  <h4>Sass Innovations</h4>
+                  <span className="logo-sass" >Sass Innovations</span >
                 </a>
               </div>
 
@@ -29,7 +29,11 @@ const Header = ({ headerclassName }) => {
                   <nav className="desktop-navbar">
                     <ul id="menu-navbar" className="desktop-navbar-menu submenu-js">
                       <li id="menu-item-46" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46">
-                        <Link to="/who-we-help">Who We Help</Link>
+                        <Link to="/who-we-help">
+                          <span className="has-child">
+                            Who We Help<i className="fas fa-chevron-down"></i>
+                          </span>
+                        </Link>
                         <ul className="sub-menu">
                           <li id="menu-item-50" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-50">
                             <Link to="/who-we-help/supply-chain">Supply Chain</Link>
@@ -49,7 +53,11 @@ const Header = ({ headerclassName }) => {
                         </ul>
                       </li>
                       <li id="menu-item-51" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
-                        <Link to="/solutions">Solutions</Link>
+                        <Link to="/solutions">
+                          <span className="has-child">
+                            Solutions<i className="fas fa-chevron-down"></i>
+                          </span>
+                        </Link>
                         <ul className="sub-menu">
                           <li id="menu-item-1402" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1402">
                             <Link to="/solutions/syncrofy_supply_chain">Syncrofy for Supply Chain</Link>
@@ -110,7 +118,11 @@ const Header = ({ headerclassName }) => {
                         <Link to="/gallery-of-work">Gallery of Work</Link>
                       </li>
                       <li id="menu-item-56" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-56">
-                        <Link to="/about">About</Link>
+                        <Link to="/about">
+                          <span className="has-child">
+                            About<i className="fas fa-chevron-down"></i>
+                          </span>
+                        </Link>
                         <ul className="sub-menu">
                           <li id="menu-item-58" className="menu-item menu-item-type-post_type menu-item-object-page menu-item-58">
                             <Link to="/about/partners">Partners</Link>
@@ -171,7 +183,7 @@ const Header = ({ headerclassName }) => {
             <div className="col-md">
               <div className="mobile-logo">
                 <a href="/">
-                <h4>Sass Innovations</h4>
+                <span className="logo-sass" >Sass Innovations</span >
                   {/* <img
                     className="inverted-logo"
                     src=""
@@ -203,7 +215,11 @@ const Header = ({ headerclassName }) => {
             <nav className="mobile-menu">
               <ul id="menu-navbar-1" className="mobile-navbar-menu submenu-js">
                 <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46">
-                  <Link to="/who-we-help">Who We Help</Link>
+                  <Link to="/who-we-help">
+                    <span className="has-child">
+                      Who We Help <i className="fas fa-chevron-down"></i>
+                    </span>
+                  </Link>
                   <ul className="sub-menu">
                     <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-50">
                       <Link to="/who-we-help/supply-chain">Supply Chain</Link>
@@ -223,7 +239,11 @@ const Header = ({ headerclassName }) => {
                   </ul>
                 </li>
                 <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51">
-                  <Link to="/solutions">Solutions</Link>
+                  <Link to="/solutions">
+                    <span className="has-child">
+                      Solutions<i className="fas fa-chevron-down"></i>
+                    </span>
+                  </Link>
                   <ul className="sub-menu">
                     <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1402">
                       <Link to="/solutions/syncrofy_supply_chain">Syncrofy for Supply Chain</Link>
@@ -283,7 +303,11 @@ const Header = ({ headerclassName }) => {
                   <Link to="/gallery-of-work">Gallery of Work</Link>
                 </li>
                 <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-56">
-                  <Link to="/about">About</Link>
+                  <Link to="/about">
+                    <span className="has-child">
+                      About<i className="fas fa-chevron-down"></i>
+                    </span>
+                  </Link>
                   <ul className="sub-menu">
                     <li className="menu-item menu-item-type-post_type menu-item-object-page menu-item-58">
                       <Link to="/about/partners">Partners</Link>

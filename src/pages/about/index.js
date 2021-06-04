@@ -23,11 +23,11 @@ const About = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-4 content-section">
-                <h2>We Are CoEnterprise</h2>
+                <h2>We Are Sass Innovations</h2>
               </div>
               <div className="col-md">
                 <p>
-                  CoEnterprise is an award-winning enterprise software and services company headquartered in New York City. Founded in 2010, we deliver supply chain and business analytics solutions
+                  Sass Innovations is an award-winning enterprise software and services company headquartered in New York City. Founded in 2010, we deliver supply chain and business analytics solutions
                   and services that are changing the way companies connect and do business.
                 </p>
               </div>
@@ -69,7 +69,7 @@ const About = () => {
               </div>
 
               <div className="col-md offset-md-1">
-                <h2>Why CoEnterprise</h2>
+                <h2>Why Sass Innovations</h2>
                 <p>
                   We are experts in everything we do. Since our inception, we’ve worked with over 250 customers on over 1,000 projects. Our expertise covers everything from integrations of existing
                   solutions, to comprehensive analytics and dashboarding, server maintenance, and migrations to the cloud. We’ve done it all for some of the biggest names in the industry. Our broad

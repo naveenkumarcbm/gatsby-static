@@ -60,7 +60,7 @@ const DataAnalytics = () => {
               </div>
 
               <div className="col-md offset-md-1">
-                <h3>Sales Pipeline Mastery with the CoEnterprise Salesforce + Tableau + Einstein AI Data Integration Workflows</h3>
+                <h3>Sales Pipeline Mastery with the Sass Innovations Salesforce + Tableau + Einstein AI Data Integration Workflows</h3>
                 <p>
                   Housed within your <a href="/about/partners/">Salesforce</a> environment, our intelligent solution provides you with deep insights into your sales
                   pipeline by integrating Salesforce, Tableau, and Einstein AI to visualize and predict your opportunities so you can prioritize, take action, and ultimately hit your targets more
@@ -95,7 +95,7 @@ const DataAnalytics = () => {
                 <h3>Exceptional Training and Comprehensive Visibility</h3>
                 <p>
                   As a <a href="/about/partners/tableau/">Tableau Gold Partner</a>, we empower users across the world with superior product know-how, informative
-                  <a href="https://info.coenterprise.com/hubfs/3283290/Collateral/Analytics/CoEnterprise_Tableau_Training.pdf">training</a>, and optimized implementations. CoEnterprise will work with
+                  <a href="https://info.coenterprise.com/hubfs/3283290/Collateral/Analytics/CoEnterprise_Tableau_Training.pdf">training</a>, and optimized implementations. Sass Innovations will work with
                   you and your teams to build the business case for your data and ensure that each bit of information is correctly mapped and connected to Tableau, providing you with true visibility
                   and actionable insights.
                 </p>
@@ -151,7 +151,7 @@ const DataAnalytics = () => {
               <div className="col-md order-md-first">
                 <h3>An Experienced Team to Guide Your Journey</h3>
                 <p>
-                  Whether you’re an expert or a novice, a small business or an enterprise, CoEnterprise has the years of experience and the skills to interpret that knowledge to your teams, setting
+                  Whether you’re an expert or a novice, a small business or an enterprise, Sass Innovations has the years of experience and the skills to interpret that knowledge to your teams, setting
                   you up for continued success with your Tableau environment. We will give your organization the tools to use your data to solve business problems, increase efficiency across the
                   business, and help you gain a competitive edge.
                 </p>
@@ -620,7 +620,7 @@ const DataAnalytics = () => {
             <div className="col-md-8 offset-md-1">
               <h2 className="heading-underline underline-blue">Product Collateral</h2>
               <p className="text-big">
-                Tableau products transform the way people use data to solve problems, and as 2017 Tableau Partner of the Year, CoEnterprise has empowered users across the country with superior product
+                Tableau products transform the way people use data to solve problems, and as 2017 Tableau Partner of the Year, Sass Innovations has empowered users across the country with superior product
                 know-how, informative training, and optimized implementations.
               </p>
               <div className="row align-items-center">

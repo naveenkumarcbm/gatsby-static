@@ -17,7 +17,7 @@ const Solutions = () => {
               <p style={{textAlign: "center"}}>OVERVIEW</p>
               <h1 style={{textAlign: "center"}}>Our Solutions</h1>
               <p style={{textAlign: "center"}}>
-                At CoEnterprise, we live and breathe data. We want to ensure that every customer has access to the right information and solutions to enable them to be successful and overcome their
+                At Sass Innovations, we live and breathe data. We want to ensure that every customer has access to the right information and solutions to enable them to be successful and overcome their
                 business challenges. We offer cloud-based software applications alongside our all-star project and consulting services. Whatever your needs are, we’ve got you covered.
               </p>
             </div>
@@ -112,7 +112,7 @@ const Solutions = () => {
                   </p>
                   <h2 className="h4">Data Analytics</h2>
                   <p>
-                    Both small business and enterprise-level corporations must develop a game plan for managing and analyzing their critical business data. That’s why CoEnterprise’s award-winning team
+                    Both small business and enterprise-level corporations must develop a game plan for managing and analyzing their critical business data. That’s why Sass Innovations’s award-winning team
                     of analytics consultants are here to ensure that your company is set up for success and that your data works the way you need it for the future of your business. Whether you need
                     help with data strategy, custom visualizations and dashboarding in Tableau, training and support, or just looking to integrate your data with existing in-house solutions, we have
                     the experts on hand to meet your goals.

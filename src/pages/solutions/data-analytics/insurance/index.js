@@ -35,7 +35,7 @@ const RetailAndCPG = () => {
                 adhere to the endless regulations, there’s a lot on your plate. The good news is that data analytics can help you with all of that.
               </p>
               <p>
-                At CoEnterprise, we’re experts in analytics and work with telecom companies just like yours to help them gain valuable insights, answer complex business questions, and make
+                At Sass Innovations, we’re experts in analytics and work with telecom companies just like yours to help them gain valuable insights, answer complex business questions, and make
                 better-informed decisions. Let us empower you to become more data-driven and better predict your customers’ needs.
               </p>
             </div>

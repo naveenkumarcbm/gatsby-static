@@ -52,7 +52,7 @@ const Careers = () => {
             </div>
             <div className="col-md-8 offset-md-1">
               <h3 className="h4">IBM</h3>
-              <p>CoEnterprise is an <a href="http://www.ibm.com/">IBM</a> Platinum Business Partner and one of IBM’s largest B2B Integration software resellers.</p>
+              <p>Sass Innovations is an <a href="http://www.ibm.com/">IBM</a> Platinum Business Partner and one of IBM’s largest B2B Integration software resellers.</p>
               <p><a className="btn btn-orange-outline" href="/about/partners/ibm/">Learn More About Our Partnership</a></p>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Careers = () => {
             </div>
             <div className="col-md-8 offset-md-1">
               <h3 className="h4">Tableau</h3>
-              <p>CoEnterprise is a <a href="http://www.tableau.com/">Tableau</a> Gold Partner. We help Tableau users quickly analyze, visualize, and share information seamlessly.</p>
+              <p>Sass Innovations is a <a href="http://www.tableau.com/">Tableau</a> Gold Partner. We help Tableau users quickly analyze, visualize, and share information seamlessly.</p>
               <p><a className="btn btn-orange-outline" href="/about/partners/tableau/">Learn More About Our Partnership</a></p>
             </div>
           </div>
@@ -101,7 +101,7 @@ const Careers = () => {
             <div className="col-md-8 offset-md-1">
               <h3 className="h4">Salesforce</h3>
               <p>
-                CoEnterprise is a <a href="http://www.salesforce.com/">Salesforce</a> Consulting Partner delivering solutions to complex business data problems across all Salesforce clouds and
+                Sass Innovations is a <a href="http://www.salesforce.com/">Salesforce</a> Consulting Partner delivering solutions to complex business data problems across all Salesforce clouds and
                 industries.
               </p>
               <p><a className="btn btn-orange-outline" href="https://www.salesforce.com/" target="_blank" rel="noopener">Learn More About Our Partnership</a></p>
@@ -133,7 +133,7 @@ const Careers = () => {
             <div className="col-md-8 offset-md-1">
               <h3 className="h4">Snowflake</h3>
               <p>
-                CoEnterprise is a <a href="https://www.snowflake.com/">Snowflake</a> Partner – the only data platform built for the cloud, for all your data and all your users, enabling users to
+                Sass Innovations is a <a href="https://www.snowflake.com/">Snowflake</a> Partner – the only data platform built for the cloud, for all your data and all your users, enabling users to
                 mobilize their data to advance their business.
               </p>
               <p><a className="btn btn-orange-outline" href="https://www.snowflake.com/" target="_blank" rel="noopener">Learn More About Snowflake</a></p>
@@ -159,7 +159,7 @@ const Careers = () => {
             </div>
             <div className="col-md-8 offset-md-1">
               <h3 className="h4">Alteryx</h3>
-              <p>CoEnterprise helps <a href="http://www.alteryx.com/">Alteryx</a> users share and understand their data in a less complicated and insightful manner.</p>
+              <p>Sass Innovations helps <a href="http://www.alteryx.com/">Alteryx</a> users share and understand their data in a less complicated and insightful manner.</p>
               <p><a className="btn btn-orange-outline" href="https://www.alteryx.com/" target="_blank" rel="noopener">Learn More About Alteryx</a></p>
             </div>
           </div>

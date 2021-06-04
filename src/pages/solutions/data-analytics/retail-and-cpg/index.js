@@ -30,7 +30,7 @@ const Insurance = () => {
               </div>
               <div className="col-md">
                 <p>
-                  With more insurance companies turning to robust analytics solutions to better understand their liabilities, risks, and underwriting expenses, CoEnterprise has you covered. Let us
+                  With more insurance companies turning to robust analytics solutions to better understand their liabilities, risks, and underwriting expenses, Sass Innovations has you covered. Let us
                   help empower your data and analytics operations.
                 </p>
                 <p>
@@ -244,7 +244,7 @@ const Insurance = () => {
                 <h2 className="heading-underline underline-purple" style={{ textAlign: "center" }}>
                   Empowering Success Through Data Visualization
                 </h2>
-                <p style={{ textAlign: "center" }}>How CoEnterprise’s Analytics Solutions can help your business grow and flourish</p>
+                <p style={{ textAlign: "center" }}>How Sass Innovations’s Analytics Solutions can help your business grow and flourish</p>
               </div>
             </div>
 
@@ -426,7 +426,7 @@ const Insurance = () => {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-md-8 content-section text-center">
-              <h2>We’ve Got You Covered. Empower your Analytics Strategy with CoEnterprise</h2>
+              <h2>We’ve Got You Covered. Empower your Analytics Strategy with Sass Innovations</h2>
             </div>
           </div>
 

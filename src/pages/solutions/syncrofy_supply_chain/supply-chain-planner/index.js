@@ -257,7 +257,7 @@ const SyncrofySupplyChainPalnner = () => {
                 <h2 style={{ textAlign: "center" }}>
                   <strong>Empowering Supply Chain Planning Success with Real-Time Visibility</strong>
                 </h2>
-                <p style={{ textAlign: "center" }}>How CoEnterprise’s Syncrofy for Supply Chain (SSC) Can Help You Maximize Efficiency &amp; Plan Effectively</p>
+                <p style={{ textAlign: "center" }}>How Sass Innovations’s Syncrofy for Supply Chain (SSC) Can Help You Maximize Efficiency &amp; Plan Effectively</p>
               </div>
             </div>
 

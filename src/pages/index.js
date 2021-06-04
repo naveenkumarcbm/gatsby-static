@@ -420,7 +420,7 @@ const IndexPage = () => {
                         <div className="col-lg-10 content-section">
                           <div className="box-shadow-1 box-shadow-padding-3 testimonial-block-bg-2">
                             <h4 className="text-grey">
-                              “The fact that CoEnterprise was New York-based and very responsive was certainly appealing to us. That combined with their reputation as a company that would work with
+                              “The fact that Sass Innovations was New York-based and very responsive was certainly appealing to us. That combined with their reputation as a company that would work with
                               you to customize and tweak their solutions to your specific needs was a major plus and really something we were looking for in a partner.”
                             </h4>
                             <br />
@@ -623,7 +623,7 @@ const IndexPage = () => {
                           <p className="post-type scrunch-top">In The Press</p>
                           <h4 className="font-weight-bold">
                             <a target="_blank" href="https://www.supplychaindive.com/press-release/20190925-coenterprise-announces-syncrofy-cloud-for-retailers-and-the-supply-chain/">
-                              CoEnterprise Announces Syncrofy Cloud for Retailers and the Supply Chain
+                              Sass Innovations Announces Syncrofy Cloud for Retailers and the Supply Chain
                             </a>
                           </h4>
                         </div>

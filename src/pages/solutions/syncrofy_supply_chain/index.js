@@ -491,7 +491,7 @@ const SyncrofySupplyChain = () => {
                   <div className="carousel-item active">
                     <div className="embed-responsive embed-responsive-16by9">
                       <iframe
-                        title="Syncrofy for Supply Chain by CoEnterprise"
+                        title="Syncrofy for Supply Chain by Sass Innovations"
                         width="640"
                         height="360"
                         src="../../kpXHhpNnhm8.html"

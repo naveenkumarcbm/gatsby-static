@@ -233,7 +233,7 @@ const SupplyChainExecutive = () => {
                 <h2 className="heading-underline underline-purple" style={{ textAlign: "center" }}>
                   Empowering Supply Chain Executives with Real-Time Visibility
                 </h2>
-                <p style={{ textAlign: "center" }}>How CoEnterprise’s Syncrofy for Supply Chain (SSC) Can Help You Make Strategic Decisions and Enhance Your Operations</p>
+                <p style={{ textAlign: "center" }}>How Sass Innovations’s Syncrofy for Supply Chain (SSC) Can Help You Make Strategic Decisions and Enhance Your Operations</p>
               </div>
             </div>
 

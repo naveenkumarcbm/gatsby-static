@@ -235,7 +235,7 @@ const CategoryMananger = () => {
                 <h2 className="heading-underline underline-purple" style={{textAlign: "center"}}>
                   Empowering Demand Planning Success with Real-Time Visibility
                 </h2>
-                <p style={{textAlign: "center"}}>How CoEnterprise’s Syncrofy for Supply Chain (SSC) Can Help Ensure Your Network is Efficient and Profitable</p>
+                <p style={{textAlign: "center"}}>How Sass Innovations’s Syncrofy for Supply Chain (SSC) Can Help Ensure Your Network is Efficient and Profitable</p>
               </div>
             </div>
 

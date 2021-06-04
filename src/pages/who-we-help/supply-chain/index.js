@@ -21,11 +21,11 @@ const SupplyChain = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 content-section">
-              <h2 className="h3">CoEnterprise is helping companies just like yours identify, prioritize, and respond to supply chain execution problems every day.</h2>
+              <h2 className="h3">Sass Innovations is helping companies just like yours identify, prioritize, and respond to supply chain execution problems every day.</h2>
             </div>
             <div className="col-md">
               <p>
-                At CoEnterprise, we understand the supply chain marketplace. We’ve spent many years empowering our clients to operate more efficiently and drive faster, more efficient decision-making
+                At Sass Innovations, we understand the supply chain marketplace. We’ve spent many years empowering our clients to operate more efficiently and drive faster, more efficient decision-making
                 based on their data.
               </p>
               <p>

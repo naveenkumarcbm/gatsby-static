@@ -210,7 +210,7 @@ const ItManager = () => {
                 <h2 className="heading-underline underline-purple" style={{ textAlign: "center" }}>
                   Empowering Your IT Success with EDI Self-Service
                 </h2>
-                <p style={{ textAlign: "center" }}>How CoEnterprise’s Syncrofy for EDI &amp; IT Can Help You Save Time, Quickly Answer Questions, and Focus on Important IT-Related Tasks</p>
+                <p style={{ textAlign: "center" }}>How Sass Innovations’s Syncrofy for EDI &amp; IT Can Help You Save Time, Quickly Answer Questions, and Focus on Important IT-Related Tasks</p>
               </div>
             </div>
 

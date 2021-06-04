@@ -193,7 +193,7 @@ const EdiManager = () => {
           <div className="row justify-content-center">
             <div className="col-md-8 content-section text-center">
               <h2 className="heading-underline underline-purple" style={{textAlign: "center"}}>Empowering Your EDI Success with Fully Data Visibility</h2>
-              <p style={{textAlign: "center"}}>How CoEnterprise’s Syncrofy for EDI &amp; IT Can Streamline Your Daily EDI Tasks &amp; Help You Meet Your Business Goals</p>
+              <p style={{textAlign: "center"}}>How Sass Innovations’s Syncrofy for EDI &amp; IT Can Streamline Your Daily EDI Tasks &amp; Help You Meet Your Business Goals</p>
             </div>
           </div>
 

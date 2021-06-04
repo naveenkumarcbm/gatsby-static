@@ -142,7 +142,7 @@ const Resources = () => {
                       <a
                         target="_blank"
                         href="https://www.prweb.com/releases/coenterprise_releases_new_supply_chain_solution_to_help_companies_achieve_full_visibility_eliminate_chargebacks_prevent_late_payments_shipments_and_minimize_disruption/prweb17285266.htm"
-                        >CoEnterprise Releases New Cloud-Based Supply Chain Solution</a
+                        >Sass Innovations Releases New Cloud-Based Supply Chain Solution</a
                       >
                     </h4>
                   </div>
@@ -441,7 +441,7 @@ const Resources = () => {
                     <div className="resource-bucket-top">
                       <p className="post-type scrunch-top">News</p>
                       <h6 className="font-weight-bold">
-                        <a href="/news/coenterprise-upgrades-let-firms-fix-supply-chain-challenges/">CoEnterprise Upgrades Let Firms Fix Supply Chain Challenges</a>
+                        <a href="/news/coenterprise-upgrades-let-firms-fix-supply-chain-challenges/">Sass Innovations Upgrades Let Firms Fix Supply Chain Challenges</a>
                       </h6>
                     </div>
                     <div className="resource-bucket-bottom">
@@ -540,14 +540,14 @@ const Resources = () => {
                     <div className="resource-bucket-top">
                       <p className="post-type scrunch-top">In The Press</p>
                       <h6 className="font-weight-bold">
-                        <a target="_blank" href="https://www.businesswire.com/news/home/20210316005179/en/Mahesh-Nandyala-Joins-CoEnterprise-as-Chief-Product-Officer"
-                          >Mahesh Nandyala Joins CoEnterprise as Chief Product Officer</a
+                        <a target="_blank" href="https://www.businesswire.com/news/home/20210316005179/en/Mahesh-Nandyala-Joins-Sass Innovations-as-Chief-Product-Officer"
+                          >Mahesh Nandyala Joins Sass Innovations as Chief Product Officer</a
                         >
                       </h6>
                     </div>
                     <div className="resource-bucket-bottom">
                       <p className="scrunch-bottom">
-                        <a target="_blank" href="https://www.businesswire.com/news/home/20210316005179/en/Mahesh-Nandyala-Joins-CoEnterprise-as-Chief-Product-Officer" className="arrow-link text-small"
+                        <a target="_blank" href="https://www.businesswire.com/news/home/20210316005179/en/Mahesh-Nandyala-Joins-Sass Innovations-as-Chief-Product-Officer" className="arrow-link text-small"
                           >Read Now</a
                         >
                       </p>
@@ -566,7 +566,7 @@ const Resources = () => {
                         <a
                           target="_blank"
                           href="https://www.prweb.com/releases/coenterprise_announces_new_vice_president_of_professional_services_to_refine_processes_and_fuel_continued_growth/prweb17596294.htm"
-                          >CoEnterprise Announces New Vice President of Professional Services to Refine Processes and Fuel Continued Growth</a
+                          >Sass Innovations Announces New Vice President of Professional Services to Refine Processes and Fuel Continued Growth</a
                         >
                       </h6>
                     </div>
@@ -594,7 +594,7 @@ const Resources = () => {
                         <a
                           target="_blank"
                           href="https://www.prweb.com/releases/coenterprise_releases_new_supply_chain_solution_to_help_companies_achieve_full_visibility_eliminate_chargebacks_prevent_late_payments_shipments_and_minimize_disruption/prweb17285266.htm"
-                          >CoEnterprise Releases New Cloud-Based Supply Chain Solution</a
+                          >Sass Innovations Releases New Cloud-Based Supply Chain Solution</a
                         >
                       </h6>
                     </div>
@@ -623,7 +623,7 @@ const Resources = () => {
                       <p className="post-type scrunch-top">In The Press</p>
                       <h6 className="font-weight-bold">
                         <a target="_blank" href="https://markets.businessinsider.com/news/stocks/coenterprise-strengthens-executive-team-with-two-new-additions-1028703911"
-                          >CoEnterprise Strengthens Executive Team with Two New Additions</a
+                          >Sass Innovations Strengthens Executive Team with Two New Additions</a
                         >
                       </h6>
                     </div>
@@ -913,7 +913,7 @@ const Resources = () => {
                   ><input
                     name="hs_context"
                     type="hidden"
-                    defaultValue='{"rumScriptExecuteTime":698.3250000048429,"rumServiceResponseTime":1017.9199999547563,"rumFormRenderTime":1.5799999819137156,"rumTotalRenderTime":1021.2900000042282,"rumTotalRequestTime":318.31500004045665,"lang":"en","renderRawHtml":"true","embedAtTimestamp":"1622091775209","formDefinitionUpdatedAt":"1507920873834","pageUrl":"/resources/","pageTitle":"Resources | CoEnterprise","source":"FormsNext-static","timestamp":1622091775209,"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","referrer":"/about/","originalEmbedContext":{"portalId":"3283290","formId":"2ff8fdfc-3688-4d3b-805a-cb0dd402deea","target":"#hbspt-form-1622091775017-9170263085","hutk":"6434b89863edbbd997df799fd29ea9a7"},"formTarget":"#hbspt-form-1622091775017-9170263085","correlationId":"349ee057-9d4d-4d57-b1a8-9082d13fbd0d","hutk":"6434b89863edbbd997df799fd29ea9a7","useRecaptchaEnterprise":true}'
+                    defaultValue='{"rumScriptExecuteTime":698.3250000048429,"rumServiceResponseTime":1017.9199999547563,"rumFormRenderTime":1.5799999819137156,"rumTotalRenderTime":1021.2900000042282,"rumTotalRequestTime":318.31500004045665,"lang":"en","renderRawHtml":"true","embedAtTimestamp":"1622091775209","formDefinitionUpdatedAt":"1507920873834","pageUrl":"/resources/","pageTitle":"Resources | Sass Innovations","source":"FormsNext-static","timestamp":1622091775209,"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36","referrer":"/about/","originalEmbedContext":{"portalId":"3283290","formId":"2ff8fdfc-3688-4d3b-805a-cb0dd402deea","target":"#hbspt-form-1622091775017-9170263085","hutk":"6434b89863edbbd997df799fd29ea9a7"},"formTarget":"#hbspt-form-1622091775017-9170263085","correlationId":"349ee057-9d4d-4d57-b1a8-9082d13fbd0d","hutk":"6434b89863edbbd997df799fd29ea9a7","useRecaptchaEnterprise":true}'
                     data-reactid=".hbspt-forms-0.7"
                   /><iframe
                     name="target_iframe_2ff8fdfc-3688-4d3b-805a-cb0dd402deea"

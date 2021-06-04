@@ -211,7 +211,7 @@ const EdiExecutive = () => {
                 <h2 className="heading-underline underline-purple" style={{ textAlign: "center" }}>
                   Empowering Your EDI Success with Full Data Visibility
                 </h2>
-                <p style={{ textAlign: "center" }}>How CoEnterprise’s Syncrofy for EDI &amp; IT Can Help You Better Understand Your Data, Save Money, and See Your Business More Clearly</p>
+                <p style={{ textAlign: "center" }}>How Sass Innovations’s Syncrofy for EDI &amp; IT Can Help You Better Understand Your Data, Save Money, and See Your Business More Clearly</p>
               </div>
             </div>
 

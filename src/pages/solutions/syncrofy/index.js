@@ -548,7 +548,7 @@ const Syncrofy = () => {
             <div className="col-lg-10 content-section">
               <div className="box-shadow-1 box-shadow-padding-3 testimonial-block-bg-2">
                 <h4 className="text-grey">
-                  “The fact that CoEnterprise was New York-based and very responsive was certainly appealing to us. That combined with their reputation as a company that would work with you to
+                  “The fact that Sass Innovations was New York-based and very responsive was certainly appealing to us. That combined with their reputation as a company that would work with you to
                   customize and tweak their solutions to your specific needs was a major plus and really something we were looking for in a partner.”
                 </h4>
                 <br />

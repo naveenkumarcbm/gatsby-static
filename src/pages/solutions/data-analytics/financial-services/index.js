@@ -34,7 +34,7 @@ const FinancialService = () => {
                   proactive approach and leveraging data analytics to help them overcome pain points and gain a competitive advantage.
                 </p>
                 <p>
-                  And at CoEnterprise, we can help you do just that. Let us empower your financial institution to become more data-driven and dramatically improve your processes today. Whether you’re
+                  And at Sass Innovations, we can help you do just that. Let us empower your financial institution to become more data-driven and dramatically improve your processes today. Whether you’re
                   struggling with fraud, looking to improve response times, increase your client base, or in need of a more refined customer experience, we’ve got you covered.
                 </p>
               </div>
@@ -151,7 +151,7 @@ const FinancialService = () => {
                 <h2 className="heading-underline underline-purple" style={{textAlign: "center"}}>
                   Empowering Success Through Data Visualization
                 </h2>
-                <p style={{textAlign: "center"}}>How CoEnterprise’s Analytics Solutions can help your financial institution grow and flourish</p>
+                <p style={{textAlign: "center"}}>How Sass Innovations’s Analytics Solutions can help your financial institution grow and flourish</p>
               </div>
             </div>
 

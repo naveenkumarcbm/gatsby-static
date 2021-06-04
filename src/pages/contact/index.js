@@ -13,7 +13,7 @@ const Contact = () => {
                 <h1 className="heading-underline underline-blue" style={{ textAlign: "center" }}>
                   We would love to hear from you.
                 </h1>
-                <p style={{ textAlign: "center" }}>We appreciate your interest in CoEnterprise. Please complete the form below to send us a message and we will be happy to assist you.</p>
+                <p style={{ textAlign: "center" }}>We appreciate your interest in Sass Innovations. Please complete the form below to send us a message and we will be happy to assist you.</p>
               </div>
             </div>
           </div>
@@ -33,7 +33,7 @@ const Contact = () => {
                           loading="lazy"
                           className="aligncenter wp-image-692"
                           src="./Contact_Support-300x300.png"
-                          alt="CoEnterprise Support"
+                          alt="Sass Innovations Support"
                           width="150"
                           height="150"
                           srcSet="./Contact_Support-300x300.png 300w, ./Contact_Support.png 800w"

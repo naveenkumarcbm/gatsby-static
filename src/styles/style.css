@@ -755,8 +755,7 @@ ul.no-list {
   background-image: none;
 }
 
-@media (max-width: 400px),
-  (min-device-width: 320px) and (max-device-width: 480px) {
+@media (max-width: 400px), (min-device-width: 320px) and (max-device-width: 480px) {
   .email-correction form .form-columns-2 .hs-form-field,
   .email-correction form .form-columns-3 .hs-form-field,
   .email-validation form .form-columns-2 .hs-form-field,
@@ -1753,18 +1752,12 @@ ul.mobile-navbar-menu > li.menu-item-has-children > a > .sub-menu-toggle {
   margin: -10px -20px;
   line-height: 1.4;
 }
-ul.mobile-navbar-menu
-  > li.menu-item-has-children
-  > a
-  > .sub-menu-toggle::after {
+ul.mobile-navbar-menu > li.menu-item-has-children > a > .sub-menu-toggle::after {
   font-family: "Font Awesome 5 Pro";
   font-weight: 400;
   content: "\f078";
 }
-ul.mobile-navbar-menu
-  > li.menu-item-has-children.active
-  > a
-  > .sub-menu-toggle::after {
+ul.mobile-navbar-menu > li.menu-item-has-children.active > a > .sub-menu-toggle::after {
   font-family: "Font Awesome 5 Pro";
   font-weight: 400;
   content: "\f077";
@@ -1811,40 +1804,21 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > a:focus {
   text-decoration: none;
 }
 
-ul.mobile-navbar-menu
-  > li
-  > ul.sub-menu
-  > li.menu-item-has-children.active
-  > a {
+ul.mobile-navbar-menu > li > ul.sub-menu > li.menu-item-has-children.active > a {
 }
 
-ul.mobile-navbar-menu
-  > li
-  > ul.sub-menu
-  > li.menu-item-has-children
-  > a
-  > .sub-menu-toggle {
+ul.mobile-navbar-menu > li > ul.sub-menu > li.menu-item-has-children > a > .sub-menu-toggle {
   float: right;
   padding: 10px 20px 10px 40px;
   margin: -10px -20px;
   line-height: 1.4;
 }
-ul.mobile-navbar-menu
-  > li
-  > ul.sub-menu
-  > li.menu-item-has-children
-  > a
-  > .sub-menu-toggle::after {
+ul.mobile-navbar-menu > li > ul.sub-menu > li.menu-item-has-children > a > .sub-menu-toggle::after {
   font-family: "Font Awesome 5 Pro";
   font-weight: 900;
   content: "\f067";
 }
-ul.mobile-navbar-menu
-  > li
-  > ul.sub-menu
-  > li.menu-item-has-children.active
-  > a
-  > .sub-menu-toggle::after {
+ul.mobile-navbar-menu > li > ul.sub-menu > li.menu-item-has-children.active > a > .sub-menu-toggle::after {
   font-family: "Font Awesome 5 Pro";
   font-weight: 900;
   content: "\f068";
@@ -2154,18 +2128,12 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > ul.sub-menu > li > a:focus {
     margin-left: 5px;
     line-height: 1;
   }
-  ul.desktop-navbar-menu
-    > li.menu-item-has-children
-    > a
-    > .sub-menu-toggle::after {
+  ul.desktop-navbar-menu > li.menu-item-has-children > a > .sub-menu-toggle::after {
     font-family: "Font Awesome 5 Pro";
     font-weight: 400;
     content: "\f107";
   }
-  ul.desktop-navbar-menu
-    > li.menu-item-has-children.active
-    > a
-    > .sub-menu-toggle::after {
+  ul.desktop-navbar-menu > li.menu-item-has-children.active > a > .sub-menu-toggle::after {
     font-family: "Font Awesome 5 Pro";
     font-weight: 400;
     content: "\f107";
@@ -2291,19 +2259,10 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > ul.sub-menu > li > a:focus {
     border-bottom-right-radius: 10px;
   }
 
-  ul.desktop-navbar-menu
-    > li
-    > ul.sub-menu
-    > li.menu-item-has-children.active
-    > a {
+  ul.desktop-navbar-menu > li > ul.sub-menu > li.menu-item-has-children.active > a {
     background-color: #eff3fb;
   }
-  ul.desktop-navbar-menu
-    > li
-    > ul.sub-menu
-    > li.menu-item-has-children
-    > a
-    > .sub-menu-toggle {
+  ul.desktop-navbar-menu > li > ul.sub-menu > li.menu-item-has-children > a > .sub-menu-toggle {
     position: absolute;
     top: 18px;
     right: 20px;
@@ -2311,22 +2270,12 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > ul.sub-menu > li > a:focus {
     margin: 0;
     line-height: 1;
   }
-  ul.desktop-navbar-menu
-    > li
-    > ul.sub-menu
-    > li.menu-item-has-children
-    > a
-    > .sub-menu-toggle::after {
+  ul.desktop-navbar-menu > li > ul.sub-menu > li.menu-item-has-children > a > .sub-menu-toggle::after {
     font-family: "Font Awesome 5 Pro";
     font-weight: 900;
     content: "\f105";
   }
-  ul.desktop-navbar-menu
-    > li
-    > ul.sub-menu
-    > li.menu-item-has-children.active
-    > a
-    > .sub-menu-toggle::after {
+  ul.desktop-navbar-menu > li > ul.sub-menu > li.menu-item-has-children.active > a > .sub-menu-toggle::after {
     font-family: "Font Awesome 5 Pro";
     font-weight: 900;
     content: "\f105";
@@ -2503,10 +2452,7 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > ul.sub-menu > li > a:focus {
   .white-bg-header ul.desktop-navbar-menu > li > a:hover,
   .white-bg-header ul.desktop-navbar-menu > li > a:active,
   .white-bg-header ul.desktop-navbar-menu > li > a:focus,
-  .white-bg-header
-    ul.desktop-navbar-menu
-    > li.menu-item-has-children.active
-    > a {
+  .white-bg-header ul.desktop-navbar-menu > li.menu-item-has-children.active > a {
     color: #040f1e;
   }
   .white-bg-header ul.desktop-navbar-menu > li.current-menu-item > a:after,
@@ -2519,18 +2465,9 @@ ul.mobile-navbar-menu > li > ul.sub-menu > li > ul.sub-menu > li > a:focus {
     background-image: linear-gradient(90deg, #20a2b5 0%, #3155c1 100%);
     margin-top: 5px;
   }
-  .white-bg-header
-    ul.desktop-navbar-menu
-    > li.current-menu-item.active
-    > a:after,
-  .white-bg-header
-    ul.desktop-navbar-menu
-    > li.current-menu-parent.active
-    > a:after,
-  .white-bg-header
-    ul.desktop-navbar-menu
-    > li.current-page-ancestor.active
-    > a:after {
+  .white-bg-header ul.desktop-navbar-menu > li.current-menu-item.active > a:after,
+  .white-bg-header ul.desktop-navbar-menu > li.current-menu-parent.active > a:after,
+  .white-bg-header ul.desktop-navbar-menu > li.current-page-ancestor.active > a:after {
     visibility: hidden;
   }
   .white-bg-header ul.desktop-utility-menu > li > a {
@@ -3025,4 +2962,19 @@ html.hs-messages-widget-open.hs-messages-mobile body {
 
 .contact-address {
   margin-left: 2% !important;
+}
+.menu-item {
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 500;
+}
+
+.logo-sass{
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.has-child > i {
+  margin-left: 5px;
 }

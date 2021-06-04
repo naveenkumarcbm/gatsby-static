@@ -30,7 +30,7 @@ const SyncrofyIntegrationCloud = () => {
               </div>
               <div className="col-md">
                 <p>
-                  CoEnterprise’s Syncrofy Integration Cloud, our EDI managed services offering, helps companies like yours solve many of their common, daily integration challenges. From communication
+                  Sass Innovations’s Syncrofy Integration Cloud, our EDI managed services offering, helps companies like yours solve many of their common, daily integration challenges. From communication
                   strategy, data transformation, and translation to data security visibility and analytics—we pride ourselves on being experts on everything integration. That paired with our
                   outstanding client service makes us stand out from the rest. Let us help you realize the value of a modern B2B integration.
                 </p>
@@ -156,7 +156,7 @@ const SyncrofyIntegrationCloud = () => {
                 </h3>
                 <p>
                   We believe that by leveraging best-in-class technology, paired with repeatable deployment assets, we can provide an award-winning service at a compelling cost in comparison with the
-                  market. CoEnterprise’s Syncrofy Integration Cloud includes a modern self-service, visibility, and analytics tool with advanced reporting capabilities.
+                  market. Sass Innovations’s Syncrofy Integration Cloud includes a modern self-service, visibility, and analytics tool with advanced reporting capabilities.
                 </p>
               </div>
             </div>
@@ -238,7 +238,7 @@ const SyncrofyIntegrationCloud = () => {
                 <h2 className="heading-underline underline-purple" style={{textAlign: "center"}}>
                   Let Us Empower Your B2B Integration Project Today
                 </h2>
-                <p style={{textAlign: "center"}}>Learn why more companies are choosing CoEnterprise to spearhead their EDI managed services.</p>
+                <p style={{textAlign: "center"}}>Learn why more companies are choosing Sass Innovations to spearhead their EDI managed services.</p>
               </div>
             </div>
 

@@ -292,6 +292,8 @@ export default function Layout({ headerclassName = "", children }) {
   return (
     <div className="page-template page-template-template-about page-template-template-about-php page page-id-34 page-parent" cz-shortcut-listen="true">
       <Helmet>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet" />
         <script src="https://kit.fontawesome.com/3eb82edf25.js" crossorigin="anonymous" />
       </Helmet>
       <Header headerclassName={headerclassName} />
