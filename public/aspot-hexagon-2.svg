@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="460px" height="517px" viewBox="0 0 460 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="2.83365691%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coe-homepage-design-1" transform="translate(-642.000000, -170.000000)" fill="url(#linearGradient-1)">
+            <g id="ASPOT">
+                <g id="BG">
+                    <path d="M1078.45791,282.134893 L894.945088,176.196331 C880.626641,167.934556 862.975359,167.934556 848.656912,176.196331 L665.138781,282.134893 C650.820334,290.401974 642,305.678564 642,322.212727 L642,534.079237 C642,550.618706 650.820334,565.900602 665.138781,574.162378 L848.656912,680.100939 C862.975359,688.36802 880.626641,688.36802 894.945088,680.100939 L1078.45791,574.162378 C1092.78167,565.900602 1101.602,550.618706 1101.602,534.079237 L1101.602,322.212727 C1101.602,305.678564 1092.78167,290.401974 1078.45791,282.134893" id="Fill-1-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
