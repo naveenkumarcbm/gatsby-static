@@ -8,6 +8,10 @@ const Header = ({ headerclassName }) => {
   // Used for mobile menu - ends
 
   return (
+    <>
+    <head>
+      <title>Sass Innovations</title>
+    </head>
     <div className={`header-wrapper ${headerclassName}`}>
       <header className="desktop-header hidden-xs hidden-sm hidden-md">
         <div className="container-fluid">
@@ -342,6 +346,7 @@ const Header = ({ headerclassName }) => {
         </div>
       </header>
     </div>
+    </>
   );
 };
 
