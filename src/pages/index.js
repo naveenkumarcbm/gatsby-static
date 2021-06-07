@@ -567,14 +567,14 @@ const IndexPage = () => {
                         <div className="resource-bucket-top">
                           <p className="post-type scrunch-top">Webinar</p>
                           <h4 className="font-weight-bold">
-                            <a target="_blank" href="https://info.coenterprise.com/revolutionize-edi-ondemand-webinar">
+                            <a target="_blank" href="/revolutionize-edi-ondemand-webinar">
                               Revolutionize Your EDI in 25 Minutes or Less
                             </a>
                           </h4>
                         </div>
                         <div className="resource-bucket-bottom">
                           <p className="scrunch-bottom">
-                            <a target="_blank" href="https://info.coenterprise.com/revolutionize-edi-ondemand-webinar" className="arrow-link">
+                            <a target="_blank" href="/revolutionize-edi-ondemand-webinar" className="arrow-link">
                               Watch Now
                             </a>
                           </p>
